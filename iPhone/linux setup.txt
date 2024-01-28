@@ -20,6 +20,7 @@ git config --global core.preloadIndex true
 
 chmod +x sync.sh
 
-alias s="/bin/sh sync.sh"
+vim /etc/profile
+	alias s="/bin/sh sync.sh"
 
 s
