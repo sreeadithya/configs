@@ -1,5 +1,5 @@
 {
-  "keyMappings": "unmap f\nmap O LinkHints.activateMode\n\nunmap j\nunmap k\nmap S scrollUp\nmap D scrollDown\n\nunmap v\nmap V enterVisualMode\n\nunmap o\nmap o Vomnibar.activateInNewTab\n\nunmap r\nunmap t\nunmap x\nunmap 1\nunmap 2\nunmap 3\nunmap 4\nunmap 5\nunmap 6\nunmap 7\nunmap 8\nunmap 9\nunmap 10",
+  "keyMappings": "unmap f\nmap O LinkHints.activateMode\n\nunmap j\nunmap k\nmap S scrollUp\nmap D scrollDown\n\nunmap v\nmap V enterVisualMode\n\nunmap o\nmap o Vomnibar.activateInNewTab\n\nunmap i\nunmap m\nunmap o\nunmap y\nunmap p\nunmap u\nunmap d\nunmap yy\nunmap r\nunmap /\nunmap t\nunmap x\nunmap g\nunmap gg\nunmap l\nunmap h\nunmap z\nunmap n\nunmap b\nunmap 1\nunmap 2\nunmap 3\nunmap 4\nunmap 5\nunmap 6\nunmap 7\nunmap 8\nunmap 9\nunmap 10",
   "settingsVersion": "2.0.5",
   "exclusionRules": []
 }
