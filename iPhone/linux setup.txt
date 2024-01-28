@@ -1,0 +1,25 @@
+mkdir dawn
+
+mount -t ios . dawn
+
+apk add git openssh-keygen openssh bash vim
+
+git config --global user.name "sreeadithya"
+
+git config --global user.email "adithyaa@skiff.com"
+
+ssh-keygen -t rsa -C "adithyaa@skiff.com"
+
+ssh -T git@github.com
+
+git clone git@github.com:sreeadithya/dawn.git
+
+git config --global --add safe.directory /root/dawn
+
+git config --global core.preloadIndex true
+
+chmod +x sync.sh
+
+alias s="/bin/sh sync.sh"
+
+s
