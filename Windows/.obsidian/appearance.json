@@ -1,0 +1,13 @@
+{
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "baseFontSize": 15,
+  "accentColor": "#ff0000",
+  "showViewHeader": false,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "test",
+    "flint"
+  ]
+}

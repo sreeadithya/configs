@@ -1,0 +1,14 @@
+{
+  "promptDelete": true,
+  "fileSortOrder": "byCreatedTimeReverse",
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "readableLineLength": true,
+  "spellcheck": false,
+  "legacyEditor": false,
+  "showInlineTitle": true,
+  "attachmentFolderPath": "-",
+  "newFileLocation": "root"
+}

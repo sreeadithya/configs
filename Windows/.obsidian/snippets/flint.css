@@ -1,0 +1,64 @@
+.canvas-controls {
+  display: none !important;
+}
+
+.canvas-card-menu {
+  display: none !important;
+}
+
+.nav-header {
+  display: none;
+}
+
+.nav-files-container {
+  padding-top: 10px;
+}
+
+.workspace-tab-header-container {
+  display: none !important;
+}
+
+video:focus {
+  outline: none;
+}
+
+video::-webkit-media-controls-volume-slider {
+  display: none;
+}
+
+video::-webkit-media-controls-mute-button {
+  display: none;
+}
+
+video::-webkit-media-controls-enclosure {
+  visibility: visible;
+}
+
+video::-webkit-media-controls-fullscreen-button {
+  display: none;
+}
+
+.nav-file-tag {
+  display: none;
+}
+
+.tree-item-self {
+  height: 30px;
+  align-items: center;
+}
+
+[data-path="/"] {
+  display: none;
+}
+
+[data-path="-"] {
+  display: none;
+}
+
+.workspace-ribbon {
+  display: none;
+}
+
+.titlebar-button-container {
+  display: none;
+}
