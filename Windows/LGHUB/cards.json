@@ -1,0 +1,6670 @@
+{
+  "_____comment": "paste this in cards: {__here__}",
+  "cards": [
+    {
+      "attribute": "EQUALIZER",
+      "equalizer": {
+        "advanced": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "deviceType": "HEADSET",
+        "name": "DEFAULT",
+        "simple": [0, 0],
+        "type": "SIMPLE"
+      },
+      "id": "05525ad1-71a4-45c4-aafa-d56ad1429f32",
+      "name": "EQUALIZER_SIMPLE_DEFAULT_HIDDEN",
+      "readOnly": true
+    },
+    {
+      "attribute": "EQUALIZER",
+      "equalizer": {
+        "advanced": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "deviceType": "HEADSET",
+        "name": "EQUALIZER_FLAT",
+        "simple": [0, 0],
+        "type": "ADVANCED"
+      },
+      "id": "0c94ec70-b811-4301-853f-e044c119cf97",
+      "name": "EQUALIZER_FLAT",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "2a190471-8f8d-4bf4-bd12-93d03169752c",
+      "macro": {
+        "actionName": "8",
+        "keystroke": {
+          "code": 37
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use Shield Battery",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "attribute": "EQUALIZER",
+      "equalizer": {
+        "advanced": [0, 0, 0, 0, 0, -3, -4, -5, -6, -6],
+        "deviceType": "SPEAKER",
+        "name": "EQUALIZER_BASS_BOOST",
+        "simple": [0, 0],
+        "type": "ADVANCED"
+      },
+      "id": "fd92f827-4096-4e6c-96b5-b3e7620d1502",
+      "name": "EQUALIZER_BASS_BOOST",
+      "readOnly": true
+    },
+    {
+      "attribute": "EQUALIZER",
+      "equalizer": {
+        "advanced": [0, -0.96, -0.96, 1.92, 3.6, 4.32, 3.6, 3.6, 1.68, 0.96],
+        "deviceType": "HEADSET",
+        "name": "EQUALIZER_COMMUNICATIONS",
+        "simple": [0, 0],
+        "type": "ADVANCED"
+      },
+      "id": "937a09ad-86d3-495c-847a-de859fc59712",
+      "name": "EQUALIZER_COMMUNICATIONS",
+      "readOnly": true
+    },
+    {
+      "attribute": "EQUALIZER",
+      "equalizer": {
+        "advanced": [3.12, 2.64, 1.92, 1.2, 1.2, 1.92, 1.2, 0, 0, 0],
+        "deviceType": "HEADSET",
+        "name": "EQUALIZER_CINEMATIC",
+        "simple": [0, 0],
+        "type": "ADVANCED"
+      },
+      "id": "88615910-55f0-4e5a-88c8-855003ffa87a",
+      "name": "EQUALIZER_CINEMATIC",
+      "readOnly": true
+    },
+    {
+      "attribute": "PRO_EQUALIZER",
+      "id": "aa1e0f3d-d5d1-42e3-ad24-0193e27f4416",
+      "name": "TSM Myth",
+      "proEqualizer": {
+        "bands": [3, 1, 2, 3, 2],
+        "deviceType": "HEADSET",
+        "name": "TSM Myth",
+        "tag": "PRO_PRESET",
+        "type": "PRO"
+      },
+      "readOnly": true
+    },
+    {
+      "attribute": "EQUALIZER",
+      "equalizer": {
+        "advanced": [0, 0, -0.96, -1.44, 3.84, 4.56, 3.12, 3.12, 1.92, 0.48],
+        "deviceType": "HEADSET",
+        "name": "EQUALIZER_FPS",
+        "simple": [0, 0],
+        "type": "ADVANCED"
+      },
+      "id": "76b7a515-2c3c-4dab-bf65-48fff5318008",
+      "name": "EQUALIZER_FPS",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "02edcb04-d9f2-41de-84cc-4cd65ad246fb",
+      "macro": {
+        "actionName": "Space",
+        "keystroke": {
+          "code": 44
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Surface",
+      "readOnly": true
+    },
+    {
+      "attribute": "EQUALIZER",
+      "equalizer": {
+        "advanced": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "deviceType": "SPEAKER",
+        "name": "EQUALIZER_FLAT",
+        "simple": [0, 0],
+        "type": "ADVANCED"
+      },
+      "id": "34d14cea-9476-4fa9-aca7-bcdb008952fd",
+      "name": "EQUALIZER_FLAT",
+      "readOnly": true
+    },
+    {
+      "attribute": "MACRO_PLAYBACK",
+      "id": "10ddeeb2-10d3-4921-afbf-0b54f2b42a2c",
+      "macro": {
+        "action": {
+          "actionId": "ow_perform_command",
+          "erroneousParameters": {
+            "app_selection": "APPLET_OW_APP_SELECTION_INVALID"
+          },
+          "integrationId": "3776b8da1238dc5",
+          "parameters": {
+            "app_selection": "oepmnephgakhodlemnladfmcnhfhbfdnbgolmcok",
+            "command_selection": "ow_stream_toggle"
+          }
+        },
+        "type": "ACTION"
+      },
+      "name": "APPLET_OW_STREAM_TOGGLE"
+    },
+    {
+      "attribute": "FIRMWARE_LIGHTING_SETTINGS",
+      "firmwareLightingSettings": {
+        "effects": [
+          {
+            "fixedParams": {
+              "color": {
+                "rgba": {
+                  "alpha": 1,
+                  "blue": 1,
+                  "green": 1,
+                  "red": 1
+                }
+              }
+            },
+            "id": "FIXED",
+            "zoneType": "ZONE_BRANDING"
+          }
+        ]
+      },
+      "id": "9b85425b-8c71-4b15-808c-1206c07e0000",
+      "name": "DEFAULT_CARD_NAME_FIRMWARE_LIGHTING_SETTINGS",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "02589973-31d2-4378-aa97-19fa85e0fc66",
+      "macro": {
+        "actionName": "G",
+        "keystroke": {
+          "code": 10
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Drop Weapon",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "593039bf-34af-4f30-9616-ccea6a76e7c4",
+      "macro": {
+        "actionName": "Space",
+        "keystroke": {
+          "code": 44
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Jump",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Windows",
+      "id": "9534f977-459f-420d-9a8f-9fa5de50b293",
+      "macro": {
+        "actionName": "Left Windows + S",
+        "keystroke": {
+          "code": 22,
+          "modifiers": [227]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open Search",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "attribute": "EQUALIZER",
+      "equalizer": {
+        "advanced": [0, -1.92, -2.4, 0, 4.32, 1.92, 3.6, 7.68, 3.6, 0],
+        "deviceType": "HEADSET",
+        "name": "EQUALIZER_MOBA",
+        "simple": [0, 0],
+        "type": "ADVANCED"
+      },
+      "id": "617470b0-7712-4f74-8da0-d4ca9283c8fb",
+      "name": "EQUALIZER_MOBA",
+      "readOnly": true
+    },
+    {
+      "attribute": "EQUALIZER",
+      "equalizer": {
+        "advanced": [3.6, 2.64, 1.68, 0.96, 0.96, 0, 0, 0, 0, 0],
+        "deviceType": "HEADSET",
+        "name": "EQUALIZER_BASS_BOOST",
+        "simple": [0, 0],
+        "type": "ADVANCED"
+      },
+      "id": "4b5147ba-0818-4c77-9dd4-152072c20042",
+      "name": "EQUALIZER_BASS_BOOST",
+      "readOnly": true
+    },
+    {
+      "attribute": "MACRO_PLAYBACK",
+      "id": "7e36adb3-ae3c-474a-a92d-0d9e8d3cf8b8",
+      "macro": {
+        "action": {
+          "actionId": "ow_perform_command",
+          "erroneousParameters": {
+            "app_selection": "APPLET_OW_APP_SELECTION_INVALID"
+          },
+          "integrationId": "3776b8da1238dc5",
+          "parameters": {
+            "app_selection": "hffhbjnafafjnehejohpkfhjdenpifhihebpkhni",
+            "command_selection": "ow_replay_capture"
+          }
+        },
+        "type": "ACTION"
+      },
+      "name": "APPLET_OW_REPLAY_CAPTURE"
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "29d097eb-18c3-4862-a722-f2d90b04fc1c",
+      "macro": {
+        "actionName": "W",
+        "keystroke": {
+          "code": 26
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Walk Foward",
+      "readOnly": true
+    },
+    {
+      "attribute": "PRO_EQUALIZER",
+      "id": "50487783-6987-4160-a2d4-e146f7ac6640",
+      "name": "TSM Bjergsen",
+      "proEqualizer": {
+        "bands": [2, 2, -1, 4, 4],
+        "deviceType": "HEADSET",
+        "name": "TSM Bjergsen",
+        "tag": "PRO_PRESET",
+        "type": "PRO"
+      },
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "2f33cd14-22d7-4fa6-b226-02498d53f237",
+      "macro": {
+        "actionName": "X",
+        "keystroke": {
+          "code": 27
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Alternate Interact",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "attribute": "EQUALIZER",
+      "equalizer": {
+        "advanced": [0, 0, -6, -5, -3, -2, -3, -3, -5, -6],
+        "deviceType": "SPEAKER",
+        "name": "EQUALIZER_FPS",
+        "simple": [0, 0],
+        "type": "ADVANCED"
+      },
+      "id": "58d82764-0486-4068-a818-68d1cc87e91d",
+      "name": "EQUALIZER_FPS",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Productivity",
+      "id": "adc8a5e1-5622-4d5f-8f49-b783444d43a2",
+      "macro": {
+        "actionName": "Alt + Esc",
+        "keystroke": {
+          "code": 41,
+          "modifiers": [226]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Cycle Through Apps",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "attribute": "EQUALIZER",
+      "equalizer": {
+        "advanced": [0, -10, -11, 0, -2, -5, -3, -17, -3, 0],
+        "deviceType": "SPEAKER",
+        "name": "EQUALIZER_MOBA",
+        "simple": [0, 0],
+        "type": "ADVANCED"
+      },
+      "id": "e6b6fdd4-7988-4c2c-8122-3853c3a1b2f4",
+      "name": "EQUALIZER_MOBA",
+      "readOnly": true
+    },
+    {
+      "attribute": "EQUALIZER",
+      "equalizer": {
+        "advanced": [-3, -4, -5, -6, -6, -5, -6, 0, 0, 0],
+        "deviceType": "SPEAKER",
+        "name": "EQUALIZER_CINEMATIC",
+        "simple": [0, 0],
+        "type": "ADVANCED"
+      },
+      "id": "6856912f-c4be-4add-9f9c-56249d566be6",
+      "name": "EQUALIZER_CINEMATIC",
+      "readOnly": true
+    },
+    {
+      "attribute": "EQUALIZER",
+      "equalizer": {
+        "advanced": [0, -0.96, -0.96, 1.92, 3.6, 4.32, 3.6, 3.6, 1.68, 0.96],
+        "deviceType": "SPEAKER",
+        "name": "EQUALIZER_COMMUNICATIONS",
+        "simple": [0, 0],
+        "type": "ADVANCED"
+      },
+      "id": "d27c3937-c03e-4fd5-9871-19c773513060",
+      "name": "EQUALIZER_COMMUNICATIONS",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Editing",
+      "id": "183bcfb9-1efb-46b3-b8f1-287b89912b17",
+      "macro": {
+        "actionName": "Ctrl + T",
+        "keystroke": {
+          "code": 23,
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "New tab",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Inventory",
+      "id": "3576fb8a-98c2-4168-993a-74e6dd68457e",
+      "macro": {
+        "actionName": "L",
+        "keystroke": {
+          "code": 15
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Toggle Pick Axe",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Building",
+      "id": "1a258892-b5fc-4682-a87f-022ca31c0669",
+      "macro": {
+        "actionName": "F5",
+        "keystroke": {
+          "code": 62
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Trap",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Plane",
+      "id": "671660ca-1698-4150-b8cd-ea98b169e089",
+      "macro": {
+        "actionName": "X",
+        "keystroke": {
+          "code": 27
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Shoot Rockets",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Editing",
+      "id": "040a356b-ea0d-4c98-9595-345737b1be6b",
+      "macro": {
+        "actionName": "Ctrl + A",
+        "keystroke": {
+          "code": 4,
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Select All",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "attribute": "PRO_EQUALIZER",
+      "id": "0487742c-a435-4379-95d6-f0b52fe4e0f8",
+      "name": "PRO_EQUALIZER_DEFAULT",
+      "proEqualizer": {
+        "bands": [0, 0, 0, 0, 0],
+        "name": "PRO_EQUALIZER_DEFAULT",
+        "type": "PRO"
+      },
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Skills",
+      "id": "03e663e7-1c94-4abd-882e-19f4b0d0dbe2",
+      "macro": {
+        "actionName": "E",
+        "keystroke": {
+          "code": 8
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use",
+      "readOnly": true
+    },
+    {
+      "attribute": "PRO_EQUALIZER",
+      "id": "f2372777-f4eb-4370-97a1-74e7b606fd48",
+      "name": "EQUALIZER_FPS",
+      "proEqualizer": {
+        "bands": [2, 2, 0, 4, 1],
+        "deviceType": "HEADSET",
+        "name": "EQUALIZER_FPS",
+        "type": "PRO"
+      },
+      "readOnly": true
+    },
+    {
+      "attribute": "PRO_EQUALIZER",
+      "id": "9eb2e33c-cf6d-42b6-977a-f8939b65ddab",
+      "name": "TSM Hamlinz",
+      "proEqualizer": {
+        "bands": [1, 1, 2, 3, -1],
+        "deviceType": "HEADSET",
+        "name": "TSM Hamlinz",
+        "tag": "PRO_PRESET",
+        "type": "PRO"
+      },
+      "readOnly": true
+    },
+    {
+      "attribute": "PRO_EQUALIZER",
+      "id": "5d42a856-1b6f-4c2a-9ab1-be086e53935f",
+      "name": "EQUALIZER_MOBA",
+      "proEqualizer": {
+        "bands": [0, -2, 3, 3, 3],
+        "deviceType": "HEADSET",
+        "name": "EQUALIZER_MOBA",
+        "type": "PRO"
+      },
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "95beac52-6a4b-4a89-984e-dcb0b6a50620",
+      "macro": {
+        "actionName": "Ctrl",
+        "keystroke": {
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Crouch",
+      "readOnly": true
+    },
+    {
+      "attribute": "MACRO_PLAYBACK",
+      "id": "1e4f3243-6848-4bbe-b301-c8094879416b",
+      "macro": {
+        "action": {
+          "actionId": "discord_voice_deafen",
+          "integrationId": "9f1134cfb89202f3"
+        },
+        "type": "ACTION"
+      },
+      "name": "APPLET_DISCORD_VOICE_DEAFEN"
+    },
+    {
+      "applicationId": "060609de-e73e-472f-bf42-9c0976515a0c",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Controls",
+      "id": "03df7ce4-56c4-481b-865d-d9b10a1b5c82",
+      "macro": {
+        "actionName": "D",
+        "keystroke": {
+          "code": 7
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move Right",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Combat",
+      "id": "14543a07-0c04-4c2c-8b6e-528b2d839ae2",
+      "macro": {
+        "actionName": "5",
+        "keystroke": {
+          "code": 34
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Weapon category 5",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "attribute": "PRO_EQUALIZER",
+      "id": "1f380829-db70-438e-adb6-54c46b95c4aa",
+      "name": "London Spitfire Profit",
+      "proEqualizer": {
+        "bands": [-2, -1, 1, 2, 3],
+        "deviceType": "HEADSET",
+        "name": "London Spitfire Profit",
+        "tag": "PRO_PRESET",
+        "type": "PRO"
+      },
+      "readOnly": true
+    },
+    {
+      "attribute": "PRO_EQUALIZER",
+      "id": "b4bdd01f-a3a8-4163-817e-43808ffbf4bf",
+      "name": "G2 shox",
+      "proEqualizer": {
+        "bands": [1, -1, -2, 1, 2],
+        "deviceType": "HEADSET",
+        "name": "G2 shox",
+        "tag": "PRO_PRESET",
+        "type": "PRO"
+      },
+      "readOnly": true
+    },
+    {
+      "attribute": "MOUSE_SETTINGS",
+      "id": "9b85425b-8c71-4b15-808c-1204c07e0000",
+      "mouseSettings": {
+        "dpiTable": {
+          "activeDpi": 1600,
+          "defaultDpi": 1600,
+          "levels": [400, 800, 1600, 3200],
+          "shiftDpi": 400
+        },
+        "reportRate": {
+          "value": 1000
+        }
+      },
+      "name": "DEFAULT_CARD_NAME_MOUSE_SETTINGS",
+      "readOnly": true
+    },
+    {
+      "attribute": "CAMERA_SETTINGS",
+      "cameraSettings": {
+        "audioMode": "STEREO",
+        "exposure": {
+          "mode": "AUTO",
+          "value": -5
+        },
+        "focus": {
+          "mode": "AUTO"
+        },
+        "fov": 78,
+        "hdr": true,
+        "iris": {
+          "mode": "MANUAL"
+        },
+        "pan": {
+          "mode": "MANUAL"
+        },
+        "priority": "FRAME_RATE",
+        "roll": {
+          "mode": "MANUAL"
+        },
+        "tilt": {
+          "mode": "MANUAL"
+        },
+        "zoom": {
+          "mode": "MANUAL",
+          "value": 100
+        }
+      },
+      "id": "570d3eeb-abcf-451d-0000-9d65f64ce5a0",
+      "name": "STREAMING",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "54b48d4a-7084-48e1-b0e8-dbe09065b024",
+      "macro": {
+        "actionName": "Shift",
+        "keystroke": {
+          "modifiers": [225]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Sprint",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "98462d63-9bae-4e65-a64a-e0f40c1b65bd",
+      "macro": {
+        "actionName": "1",
+        "keystroke": {
+          "code": 30
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Primary Fire",
+      "readOnly": true
+    },
+    {
+      "attribute": "CAMERA_SETTINGS",
+      "cameraSettings": {
+        "audioMode": "MONO",
+        "exposure": {
+          "mode": "AUTO",
+          "value": -5
+        },
+        "focus": {
+          "mode": "AUTO"
+        },
+        "fov": 90,
+        "hdr": true,
+        "iris": {
+          "mode": "MANUAL"
+        },
+        "pan": {
+          "mode": "MANUAL"
+        },
+        "priority": "EXPOSURE",
+        "roll": {
+          "mode": "MANUAL"
+        },
+        "tilt": {
+          "mode": "MANUAL"
+        },
+        "zoom": {
+          "mode": "MANUAL",
+          "value": 100
+        }
+      },
+      "id": "74f97c2b-9839-4dea-0000-a55d5448ae62",
+      "name": "VIDEO_CALL",
+      "readOnly": true
+    },
+    {
+      "applicationId": "060609de-e73e-472f-bf42-9c0976515a0c",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Controls",
+      "id": "8c774505-0e27-43c0-82ca-c74152fecb54",
+      "macro": {
+        "actionName": "1",
+        "keystroke": {
+          "code": 30
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Emote 1",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Productivity",
+      "id": "1bd6de83-2154-4616-86eb-ee4ac5ed6be4",
+      "macro": {
+        "actionName": "Ctrl + Shift + Esc",
+        "keystroke": {
+          "code": 41,
+          "modifiers": [224, 225]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open Task Manager",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "attribute": "VIDEO_SETTINGS",
+      "id": "5ddce669-57c3-40f6-0000-f2aabe64dbd5",
+      "name": "ZOMBIE",
+      "readOnly": true,
+      "videoSettings": {
+        "antiFlicker": 60,
+        "brightness": {
+          "mode": "MANUAL",
+          "value": 95
+        },
+        "color": {
+          "mode": "MANUAL"
+        },
+        "contrast": {
+          "mode": "MANUAL",
+          "value": 80
+        },
+        "gain": {
+          "mode": "MANUAL",
+          "value": 128
+        },
+        "gamma": {
+          "mode": "MANUAL"
+        },
+        "hue": {
+          "mode": "MANUAL",
+          "value": 50
+        },
+        "saturation": {
+          "mode": "MANUAL",
+          "value": 128
+        },
+        "sharpness": {
+          "mode": "MANUAL",
+          "value": 128
+        },
+        "whiteBalance": {
+          "mode": "AUTO",
+          "value": 4280
+        }
+      }
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "0091e5f2-5f56-47aa-937d-179613251b85",
+      "macro": {
+        "actionName": "6",
+        "keystroke": {
+          "code": 35
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Select Quen",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Windows",
+      "id": "f838aaf5-82fa-45cd-8cd6-6e48eda4a684",
+      "macro": {
+        "actionName": "Left Windows + B",
+        "keystroke": {
+          "code": 5,
+          "modifiers": [227]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Set Focus in Notification Area",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "attribute": "VIDEO_SETTINGS",
+      "id": "1068c6e4-4ebd-4906-0000-0e1b022eee71",
+      "name": "CARTOON",
+      "readOnly": true,
+      "videoSettings": {
+        "antiFlicker": 60,
+        "brightness": {
+          "mode": "MANUAL",
+          "value": 128
+        },
+        "color": {
+          "mode": "MANUAL"
+        },
+        "contrast": {
+          "mode": "MANUAL",
+          "value": 160
+        },
+        "gain": {
+          "mode": "MANUAL",
+          "value": 128
+        },
+        "gamma": {
+          "mode": "MANUAL"
+        },
+        "hue": {
+          "mode": "MANUAL",
+          "value": 50
+        },
+        "saturation": {
+          "mode": "MANUAL",
+          "value": 255
+        },
+        "sharpness": {
+          "mode": "MANUAL"
+        },
+        "whiteBalance": {
+          "mode": "AUTO",
+          "value": 4290
+        }
+      }
+    },
+    {
+      "attribute": "VIDEO_SETTINGS",
+      "id": "6fc5b9d8-957b-430f-0000-2b020a2fd6fa",
+      "name": "BLACK_AND_WHITE",
+      "readOnly": true,
+      "videoSettings": {
+        "antiFlicker": 60,
+        "brightness": {
+          "mode": "MANUAL",
+          "value": 128
+        },
+        "color": {
+          "mode": "MANUAL"
+        },
+        "contrast": {
+          "mode": "MANUAL",
+          "value": 128
+        },
+        "gain": {
+          "mode": "MANUAL",
+          "value": 128
+        },
+        "gamma": {
+          "mode": "MANUAL"
+        },
+        "hue": {
+          "mode": "MANUAL",
+          "value": 50
+        },
+        "saturation": {
+          "mode": "MANUAL"
+        },
+        "sharpness": {
+          "mode": "MANUAL",
+          "value": 128
+        },
+        "whiteBalance": {
+          "mode": "AUTO",
+          "value": 4280
+        }
+      }
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "21999e4f-8ab1-4e2a-b8ef-df93d2934ce5",
+      "macro": {
+        "actionName": "Z",
+        "keystroke": {
+          "code": 29
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Prone",
+      "readOnly": true
+    },
+    {
+      "attribute": "VIDEO_SETTINGS",
+      "id": "8ac986e2-36b4-427d-0000-ee0fbf4abf5e",
+      "name": "SICKNESS",
+      "readOnly": true,
+      "videoSettings": {
+        "antiFlicker": 60,
+        "brightness": {
+          "mode": "MANUAL",
+          "value": 128
+        },
+        "color": {
+          "mode": "MANUAL"
+        },
+        "contrast": {
+          "mode": "MANUAL",
+          "value": 200
+        },
+        "gain": {
+          "mode": "MANUAL",
+          "value": 128
+        },
+        "gamma": {
+          "mode": "MANUAL"
+        },
+        "hue": {
+          "mode": "MANUAL",
+          "value": 50
+        },
+        "saturation": {
+          "mode": "MANUAL",
+          "value": 65
+        },
+        "sharpness": {
+          "mode": "MANUAL",
+          "value": 200
+        },
+        "whiteBalance": {
+          "mode": "AUTO",
+          "value": 4290
+        }
+      }
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Productivity",
+      "id": "14001443-4ea7-4aad-b756-a1c596fade00",
+      "macro": {
+        "actionName": "Alt + Tab",
+        "keystroke": {
+          "code": 43,
+          "modifiers": [226]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Switch Between Apps",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "attribute": "MACRO_PLAYBACK",
+      "id": "c45cc1e1-3e3a-4569-b747-259063acb2c0",
+      "macro": {
+        "action": {
+          "actionId": "ow_perform_command",
+          "erroneousParameters": {
+            "app_selection": "APPLET_OW_APP_SELECTION_INVALID"
+          },
+          "integrationId": "3776b8da1238dc5",
+          "parameters": {
+            "app_selection": "lnhebboianabbebhnpoodokcdcnmikacoeijpjfe",
+            "command_selection": "ow_take_screenshot"
+          }
+        },
+        "type": "ACTION"
+      },
+      "name": "APPLET_OW_TAKE_SCREENSHOT"
+    },
+    {
+      "attribute": "DISABLE_KEY_SETTINGS",
+      "id": "9b85425b-8c71-4b15-808c-1205c3360000",
+      "name": "Disable Keys",
+      "readOnly": true
+    },
+    {
+      "attribute": "FIRMWARE_LIGHTING_SETTINGS",
+      "firmwareLightingSettings": {
+        "effects": [
+          {
+            "fixedParams": {
+              "color": {
+                "rgba": {
+                  "alpha": 1,
+                  "blue": 1,
+                  "green": 0.862745106
+                }
+              }
+            },
+            "id": "FIXED",
+            "zoneType": "ZONE_PRIMARY"
+          }
+        ]
+      },
+      "id": "9b85425b-8c71-4b15-808c-1206c3360000",
+      "name": "DEFAULT_CARD_NAME_FIRMWARE_LIGHTING_SETTINGS",
+      "readOnly": true
+    },
+    {
+      "attribute": "MACRO_PLAYBACK",
+      "id": "38dae9d7-72e4-46d4-a914-6e816f018006",
+      "macro": {
+        "action": {
+          "actionId": "ow_perform_command",
+          "erroneousParameters": {
+            "app_selection": "APPLET_OW_APP_SELECTION_INVALID"
+          },
+          "integrationId": "3776b8da1238dc5",
+          "parameters": {
+            "app_selection": "lnhebboianabbebhnpoodokcdcnmikacoeijpjfe",
+            "command_selection": "ow_capture_video"
+          }
+        },
+        "type": "ACTION"
+      },
+      "name": "APPLET_OW_CAPTURE_VIDEO"
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Miscellaneous",
+      "id": "7391b471-8fec-4576-8eac-a5441eb4a21c",
+      "macro": {
+        "actionName": "F1",
+        "keystroke": {
+          "code": 58
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Switch to Vehicle Seat 1",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Editing",
+      "id": "78a1d1ad-8fa8-4437-bbcb-51999d6e622a",
+      "macro": {
+        "actionName": "Ctrl + W",
+        "keystroke": {
+          "code": 26,
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Close tab",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "attribute": "MACRO_PLAYBACK",
+      "id": "8aef5a50-b173-4d17-90d2-82392da9ad1a",
+      "macro": {
+        "action": {
+          "actionId": "ow_perform_command",
+          "erroneousParameters": {
+            "app_selection": "APPLET_OW_APP_SELECTION_INVALID"
+          },
+          "integrationId": "3776b8da1238dc5",
+          "parameters": {
+            "app_selection": "hffhbjnafafjnehejohpkfhjdenpifhihebpkhni",
+            "command_selection": "ow_replay_show_last"
+          }
+        },
+        "type": "ACTION"
+      },
+      "name": "APPLET_OW_REPLAY_SHOW_LAST"
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Editing",
+      "id": "d2754088-377f-4124-80aa-c9ac530da70b",
+      "macro": {
+        "actionName": "Ctrl + -",
+        "keystroke": {
+          "code": 45,
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Zoom Out",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Vehicle",
+      "id": "5a916087-7240-43e7-a96a-6a9e9df47e15",
+      "macro": {
+        "actionName": "X",
+        "keystroke": {
+          "code": 27
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use Vehicle Weapon",
+      "readOnly": true
+    },
+    {
+      "attribute": "MACRO_PLAYBACK",
+      "id": "713d04e9-b8c5-4556-ab7e-6961d01a4446",
+      "macro": {
+        "action": {
+          "actionId": "discord_voice_mute",
+          "integrationId": "9f1134cfb89202f3"
+        },
+        "type": "ACTION"
+      },
+      "name": "APPLET_DISCORD_VOICE_MUTE"
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Interface",
+      "id": "45e61543-750d-47dc-ae6e-16882f03e759",
+      "macro": {
+        "actionName": "I",
+        "keystroke": {
+          "code": 12
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Toggle Inventory Display",
+      "readOnly": true
+    },
+    {
+      "attribute": "MACRO_PLAYBACK",
+      "id": "0e43fd90-2073-4f41-9f17-b708af40b7d7",
+      "macro": {
+        "action": {
+          "actionId": "obs_stream_toggle",
+          "integrationId": "ae67192054b1d99f"
+        },
+        "type": "ACTION"
+      },
+      "name": "APPLET_OBS_TOGGLE_STREAM"
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Productivity",
+      "id": "43b9b98f-6cf3-4711-bec1-78d20a2043ed",
+      "macro": {
+        "actionName": "Alt + F4",
+        "keystroke": {
+          "code": 61,
+          "modifiers": [226]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Exit Active App",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "attribute": "MACRO_PLAYBACK",
+      "id": "ea6774ed-9454-4a36-afac-d75e266016e1",
+      "macro": {
+        "action": {
+          "actionId": "obs_recording_toggle",
+          "integrationId": "ae67192054b1d99f"
+        },
+        "type": "ACTION"
+      },
+      "name": "APPLET_OBS_TOGGLE_RECORDING"
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Combat",
+      "id": "19e9bdb4-1165-48cf-a8ea-5c0a85c4c843",
+      "macro": {
+        "actionName": "C",
+        "keystroke": {
+          "code": 6
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Send/Recall Squad",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Editing",
+      "id": "2223f684-602d-4e5a-9113-24b2ec0f8d54",
+      "macro": {
+        "actionName": "Ctrl + X",
+        "keystroke": {
+          "code": 27,
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Cut",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Editing",
+      "id": "f78e207c-99e2-44b4-be05-e07accf9bb57",
+      "macro": {
+        "actionName": "Ctrl + Y",
+        "keystroke": {
+          "code": 28,
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Redo",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Editing",
+      "id": "3f42ae45-1254-459d-9969-2d48ba7ac39c",
+      "macro": {
+        "actionName": "Ctrl + C",
+        "keystroke": {
+          "code": 6,
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Copy",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Productivity",
+      "id": "40630b37-7025-4819-bae0-27e7f6db174f",
+      "macro": {
+        "actionName": "Ctrl + Esc",
+        "keystroke": {
+          "code": 41,
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open Start",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Editing",
+      "id": "bdd30572-a1a7-43d9-860c-6b24a4d9edbe",
+      "macro": {
+        "actionName": "Ctrl + 0",
+        "keystroke": {
+          "code": 39,
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Zoom Reset",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Editing",
+      "id": "9db5ce4b-e05d-4cd7-aba0-6e5d27abb486",
+      "macro": {
+        "actionName": "Ctrl + V",
+        "keystroke": {
+          "code": 25,
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Paste",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "4d9d7b56-8bf5-41ff-8994-209a7196a298",
+      "macro": {
+        "actionName": "D",
+        "keystroke": {
+          "code": 7
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move Right",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Editing",
+      "id": "966381af-318d-4117-a14d-704087dedf3e",
+      "macro": {
+        "actionName": "Ctrl + O",
+        "keystroke": {
+          "code": 18,
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Miscellaneous",
+      "id": "c0302fe3-3067-411c-8f6c-81f16cd99726",
+      "macro": {
+        "actionName": "E",
+        "keystroke": {
+          "code": 8
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Interact",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Editing",
+      "id": "690f0c9a-a2d1-4145-8115-22173461b5e9",
+      "macro": {
+        "actionName": "Ctrl + Z",
+        "keystroke": {
+          "code": 29,
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Undo",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Pilot",
+      "id": "f69ef254-6126-4c79-a0d1-6894887f3ced",
+      "macro": {
+        "actionName": "Right",
+        "keystroke": {
+          "code": 79
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Roll Right",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "bb8078cd-973f-4161-b192-301acaafe4e1",
+      "macro": {
+        "actionName": "Q",
+        "keystroke": {
+          "code": 20
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Cast Sign",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "f5ce4b7b-797e-4d1f-82da-876b9e01a00f",
+      "macro": {
+        "actionName": "V",
+        "keystroke": {
+          "code": 25
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Melee",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Editing",
+      "id": "de812e9e-8f42-439d-bf32-6db0f506167b",
+      "macro": {
+        "actionName": "Ctrl + S",
+        "keystroke": {
+          "code": 22,
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Save",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "9bb32d65-b515-449a-bbd7-fb41aa84b652",
+      "macro": {
+        "actionName": "V",
+        "keystroke": {
+          "code": 25
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Change Objective",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Editing",
+      "id": "feadaebf-ec62-412c-b072-8d4663e6f993",
+      "macro": {
+        "actionName": "Ctrl + N",
+        "keystroke": {
+          "code": 17,
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "New",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Editing",
+      "id": "2b54945b-7365-4801-b997-f834fe899a6b",
+      "macro": {
+        "actionName": "Ctrl + =",
+        "keystroke": {
+          "code": 46,
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Zoom In",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Vehicle",
+      "id": "7b05d747-a141-46c4-b1bc-de5623d5e03e",
+      "macro": {
+        "actionName": "S",
+        "keystroke": {
+          "code": 22
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Brake / Pitch Down (In Air)",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Windows",
+      "id": "83488394-c366-4acd-85ec-cd7d4d9ac1b3",
+      "macro": {
+        "actionName": "Left Windows + E",
+        "keystroke": {
+          "code": 8,
+          "modifiers": [227]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open File Explorer",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "e8d5a2bb-12da-4ec5-b168-997133d50353",
+      "macro": {
+        "actionName": "A",
+        "keystroke": {
+          "code": 4
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move Left",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "847552f7-da03-406f-81d3-f384e3190bae",
+      "macro": {
+        "actionName": "D",
+        "keystroke": {
+          "code": 7
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move right (strafe)",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Windows",
+      "id": "730ac1ba-19bc-45d4-b303-a14d256f6280",
+      "macro": {
+        "actionName": "Left Windows + L",
+        "keystroke": {
+          "code": 15,
+          "modifiers": [227]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Lock PC",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Windows",
+      "id": "a2e87b57-02f7-4cbe-adeb-dc14c2823df2",
+      "macro": {
+        "actionName": "Left Windows + D",
+        "keystroke": {
+          "code": 7,
+          "modifiers": [227]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Hide/Show Desktop",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "da841cec-d382-4c48-9ca4-535d131c851c",
+      "macro": {
+        "actionName": "T",
+        "keystroke": {
+          "code": 23
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Consumables Slot 3",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Windows",
+      "id": "986d92d6-5336-417c-b95f-5a4844f0cf2e",
+      "macro": {
+        "actionName": "Left Windows + A",
+        "keystroke": {
+          "code": 4,
+          "modifiers": [227]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open Action Center",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Windows",
+      "id": "c3207c3e-2a41-4de3-ae61-0473988feb57",
+      "macro": {
+        "actionName": "Left Windows + U",
+        "keystroke": {
+          "code": 24,
+          "modifiers": [227]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open Ease of Access Center",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Windows",
+      "id": "1504c398-7503-4062-9ac3-3b2aa2a42414",
+      "macro": {
+        "actionName": "Left Windows + G",
+        "keystroke": {
+          "code": 10,
+          "modifiers": [227]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open Windows Game Bar",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Windows",
+      "id": "1f823998-1643-457b-8fb1-1ce68bf236d2",
+      "macro": {
+        "actionName": "Left Windows + I",
+        "keystroke": {
+          "code": 12,
+          "modifiers": [227]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open Windows Setting",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Windows",
+      "id": "38be9425-ee14-4846-a0e2-26d36589488b",
+      "macro": {
+        "actionName": "Left Windows + K",
+        "keystroke": {
+          "code": 14,
+          "modifiers": [227]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open Connect Quick Action",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "228a3da1-7e55-4ec4-a579-353bd98e04d0",
+      "macro": {
+        "actionName": "7",
+        "keystroke": {
+          "code": 36
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use Shield Cell",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Windows",
+      "id": "2b485d96-7291-4819-8a00-497e76f4be0f",
+      "macro": {
+        "actionName": "Left Windows + M",
+        "keystroke": {
+          "code": 16,
+          "modifiers": [227]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Minimize All Windows",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Windows",
+      "id": "1a02149a-4554-441a-95fc-ee6dfce04a7b",
+      "macro": {
+        "actionName": "Left Windows + R",
+        "keystroke": {
+          "code": 21,
+          "modifiers": [227]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Run dialog",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "b67d0dd2-8304-4c47-9fd1-d3f1442ed196",
+      "macro": {
+        "actionName": "N",
+        "keystroke": {
+          "code": 17
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Inspect Weapon",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Windows",
+      "id": "39787a70-9527-498c-8cb7-86b443d3804d",
+      "macro": {
+        "actionName": "Left Windows + T",
+        "keystroke": {
+          "code": 23,
+          "modifiers": [227]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Cycle Task Bar Apps",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Comms",
+      "id": "9f740b9e-0eff-4e75-82aa-8d7ebe8e5bc5",
+      "macro": {
+        "actionName": "Z",
+        "keystroke": {
+          "code": 29
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Command Radio Message",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Equipment",
+      "id": "e93beb20-d7ba-43b2-bc05-698f06f99a3f",
+      "macro": {
+        "actionName": "F",
+        "keystroke": {
+          "code": 9
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use Object",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Windows",
+      "id": "b57f5733-c19e-4f11-9c8b-e668c15d23b1",
+      "macro": {
+        "actionName": "Left Windows + X",
+        "keystroke": {
+          "code": 27,
+          "modifiers": [227]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open Quick Links",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "attribute": "FIRMWARE_LIGHTING_SETTINGS",
+      "firmwareLightingSettings": {
+        "effects": [
+          {
+            "id": "OFF",
+            "zoneType": "ZONE_BRANDING"
+          }
+        ]
+      },
+      "id": "8b47d308-9718-4192-be81-546583cf0ae4",
+      "name": "DEFAULT_CARD_NAME_FIRMWARE_LIGHTING_SETTINGS",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147"
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Windows",
+      "id": "352eaaf0-1b30-48b2-9c53-418fe77dd50c",
+      "macro": {
+        "actionName": "Left Windows + .",
+        "keystroke": {
+          "code": 55,
+          "modifiers": [227]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open Emoji Panel",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "b9065221-813f-48fc-9f92-3fe51b5e8e8d",
+      "macro": {
+        "actionName": "6",
+        "keystroke": {
+          "code": 35
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "HE Grenade",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Angelito",
+      "id": "3f587bbc-29e9-468b-aeec-a692dd15d569",
+      "macro": {
+        "actionName": "S",
+        "keystroke": {
+          "code": 22
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Brake",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Windows",
+      "id": "142084e3-0646-4d47-bb6c-ea76a81028eb",
+      "macro": {
+        "actionName": "Left Windows + Tab",
+        "keystroke": {
+          "code": 43,
+          "modifiers": [227]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open Task View",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Windows",
+      "id": "e680101f-974b-45f3-94c9-d557921ef9ed",
+      "macro": {
+        "actionName": "Left Windows + Ctrl + Enter",
+        "keystroke": {
+          "code": 40,
+          "modifiers": [227, 224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open Narrator",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "b187be79-f825-46c8-a4e4-91f45fdbaa7e",
+      "macro": {
+        "actionName": "5",
+        "keystroke": {
+          "code": 34
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Select Igni",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Windows",
+      "id": "af6f67aa-5331-40d5-b565-6b2fbfc48827",
+      "macro": {
+        "actionName": "Left Windows + =",
+        "keystroke": {
+          "code": 46,
+          "modifiers": [227]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open Magnifier",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communication",
+      "id": "fabaa79d-227c-431e-9ca1-8c609bbcc87d",
+      "macro": {
+        "actionName": "Alt",
+        "keystroke": {
+          "modifiers": [226]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "VOIP",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "daba72ac-610a-4719-bc18-8a353c72ed88",
+      "macro": {
+        "actionName": "Tab",
+        "keystroke": {
+          "code": 43
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Map",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Navigation",
+      "id": "0c102578-e375-4280-8d64-10f27f225e7b",
+      "macro": {
+        "actionName": "Alt + Left",
+        "keystroke": {
+          "code": 80,
+          "modifiers": [226]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Go Back",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "112f6cc0-7726-4887-a2ab-305b1906e90f",
+      "macro": {
+        "actionName": "3",
+        "keystroke": {
+          "code": 32
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Select Aard",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Navigation",
+      "id": "d543d3dc-29be-4078-a683-ce927ceff9a8",
+      "macro": {
+        "actionName": "Alt + Right",
+        "keystroke": {
+          "code": 79,
+          "modifiers": [226]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Go Forward",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "readOnly": true
+    },
+    {
+      "attribute": "MACRO_PLAYBACK",
+      "id": "f7e6178c-e03e-44d0-8f0f-ca7e749a8945",
+      "macro": {
+        "action": {
+          "actionId": "obs_buffer_save",
+          "integrationId": "ae67192054b1d99f"
+        },
+        "type": "ACTION"
+      },
+      "name": "APPLET_OBS_SAVE_BUFFER"
+    },
+    {
+      "applicationId": "060609de-e73e-472f-bf42-9c0976515a0c",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Controls",
+      "id": "302eb22f-ae15-44a5-a176-7e64ccecd4db",
+      "macro": {
+        "actionName": "Ctrl",
+        "keystroke": {
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Dive",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Plane",
+      "id": "07e43182-b717-40a7-9300-e56aa7ddc4e0",
+      "macro": {
+        "actionName": "F4",
+        "keystroke": {
+          "code": 61
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Show / Hide Controls",
+      "readOnly": true
+    },
+    {
+      "attribute": "MACRO_PLAYBACK",
+      "id": "4871251e-02e4-4157-a52f-1110382b8f0e",
+      "macro": {
+        "action": {
+          "actionId": "obs_desktop_mute_toggle",
+          "integrationId": "ae67192054b1d99f"
+        },
+        "type": "ACTION"
+      },
+      "name": "APPLET_OBS_DESKTOP_MUTE_TOGGLE"
+    },
+    {
+      "attribute": "MACRO_PLAYBACK",
+      "id": "e95d5389-65cf-444b-b668-e9c74002ac94",
+      "macro": {
+        "action": {
+          "actionId": "obs_mic_mute_toggle",
+          "integrationId": "ae67192054b1d99f"
+        },
+        "type": "ACTION"
+      },
+      "name": "APPLET_OBS_MIC_MUTE_TOGGLE"
+    },
+    {
+      "attribute": "MOUSE_SETTINGS",
+      "id": "57765b44-71c2-4fd0-8bba-4fd5d6f5cbeb",
+      "mouseSettings": {
+        "dpiTable": {
+          "activeDpi": 850,
+          "defaultDpi": 2400,
+          "levels": [300, 850, 1600, 2400],
+          "shiftDpi": 2400
+        },
+        "reportRate": {
+          "value": 1000
+        }
+      },
+      "name": "DEFAULT_CARD_NAME_MOUSE_SETTINGS",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147"
+    },
+    {
+      "attribute": "FIRMWARE_LIGHTING_SETTINGS",
+      "firmwareLightingSettings": {
+        "effects": [
+          {
+            "fixedParams": {
+              "color": {
+                "hex": "#ffffff"
+              }
+            },
+            "id": "FIXED",
+            "zoneType": "ZONE_PRIMARY"
+          }
+        ]
+      },
+      "id": "81ffa6f8-2331-4b5a-9712-8fa8c7ce2013",
+      "name": "DEFAULT_CARD_NAME_FIRMWARE_LIGHTING_SETTINGS",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147"
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "2cd3a756-4052-435e-97b1-4a922d5adc17",
+      "macro": {
+        "actionName": "3",
+        "keystroke": {
+          "code": 32
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Knife",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Inventory",
+      "id": "7704c961-c60a-42b4-b784-d7a8f6dd20c3",
+      "macro": {
+        "actionName": "I",
+        "keystroke": {
+          "code": 12
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Toggle Inventory",
+      "readOnly": true
+    },
+    {
+      "attribute": "SOFTWARE_LIGHTING_SETTINGS",
+      "id": "bae00a22-3f50-4efe-bc18-26f812151515",
+      "name": "SOFTWARE_LIGHTING",
+      "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+      "softwareLightingSettings": {}
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "a125b6cf-9eef-477f-a286-85d4e0156d8d",
+      "macro": {
+        "actionName": "S",
+        "keystroke": {
+          "code": 22
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Walk Backward",
+      "readOnly": true
+    },
+    {
+      "attribute": "MACRO_PLAYBACK",
+      "id": "695a02e1-e3a3-46cc-ad94-39f0932b42cd",
+      "macro": {
+        "action": {
+          "actionId": "slobs_stream_toggle",
+          "integrationId": "7264dd41c5d6c6f6"
+        },
+        "type": "ACTION"
+      },
+      "name": "APPLET_SLOBS_TOGGLE_STREAM"
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Combat",
+      "id": "d8bb0291-e596-4dcd-bfa9-bcf1c0389ca4",
+      "macro": {
+        "actionName": "Q",
+        "keystroke": {
+          "code": 20
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Last weapon used",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Combat",
+      "id": "293fa684-e0d7-4af5-9ce7-ed0391a5038c",
+      "macro": {
+        "actionName": "R",
+        "keystroke": {
+          "code": 21
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Reload weapon",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Vehicle",
+      "id": "6d026e8c-3872-458f-970a-fe6d37ebd7dd",
+      "macro": {
+        "actionName": "W",
+        "keystroke": {
+          "code": 26
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Accelerate / Pitch Up (In Air)",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Helicopter",
+      "id": "d5358518-57b1-4abf-9791-9cfdcf0b3347",
+      "macro": {
+        "actionName": "Ctrl",
+        "keystroke": {
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Throttle Down / Descend",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "31343228-2970-4233-a3e9-48b3978413cc",
+      "macro": {
+        "actionName": "Alt",
+        "keystroke": {
+          "modifiers": [226]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Equip Survival Item",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Combat",
+      "id": "b7abdac3-464b-4b73-9a90-aacbfa5862c3",
+      "macro": {
+        "actionName": "Z",
+        "keystroke": {
+          "code": 29
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Suit Zoom",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Miscellaneous",
+      "id": "3c240da0-a046-40ac-83f4-59a93fe243fa",
+      "macro": {
+        "actionName": "F12",
+        "keystroke": {
+          "code": 69
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Screenshot",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Combat",
+      "id": "c216064a-5cee-4531-8609-7e5c1bf64d72",
+      "macro": {
+        "actionName": "3",
+        "keystroke": {
+          "code": 32
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Weapon category 3",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "e5099889-cd21-4be8-afa8-8fa78b26bd9d",
+      "macro": {
+        "actionName": "U",
+        "keystroke": {
+          "code": 24
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Arsenal",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Miscellaneous",
+      "id": "cc19f62e-abb0-4aff-b53c-c1fc0db81f89",
+      "macro": {
+        "actionName": "F9",
+        "keystroke": {
+          "code": 66
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Quick load",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Vehicle",
+      "id": "943f5d32-3736-4302-829b-5fb392bd1196",
+      "macro": {
+        "actionName": "4",
+        "keystroke": {
+          "code": 33
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Horn",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Miscellaneous",
+      "id": "04910d72-4340-4bb0-ae1d-34df76ed42c8",
+      "macro": {
+        "actionName": "Num Lock",
+        "keystroke": {
+          "code": 83
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Pause game",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "36609e13-4bfb-4582-b71e-af8fe1fcfd73",
+      "macro": {
+        "actionName": "B",
+        "keystroke": {
+          "code": 5
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Photos",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "6ccf5a22-2b66-465b-b8f8-5c83fecb8d1e",
+      "macro": {
+        "actionName": "W",
+        "keystroke": {
+          "code": 26
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Forward",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Miscellaneous",
+      "id": "5ddc1aac-8ba1-4001-99c0-fb3949aceccd",
+      "macro": {
+        "actionName": "Alt",
+        "keystroke": {
+          "modifiers": [226]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Walk (Move Slowly)",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "c7294c5d-a713-4822-bac0-a4bd5514948c",
+      "macro": {
+        "actionName": "Tab",
+        "keystroke": {
+          "code": 43
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Primary Inventory",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "08880a42-9110-4c7d-b5f1-29f14901575f",
+      "macro": {
+        "actionName": "S",
+        "keystroke": {
+          "code": 22
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move back",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Interface",
+      "id": "93b05e2e-e55c-4ad1-8e26-73523da75206",
+      "macro": {
+        "actionName": "M",
+        "keystroke": {
+          "code": 16
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Choose Team",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "39b26686-1d74-457d-8e25-094c27ce482f",
+      "macro": {
+        "actionName": "5",
+        "keystroke": {
+          "code": 34
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Weapon Slot 4",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Interface",
+      "id": "02a97e3c-40d2-44d6-9dad-9d1c96a03d65",
+      "macro": {
+        "actionName": "N",
+        "keystroke": {
+          "code": 17
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Combat Report",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "5e603338-3b28-448a-8c6b-f1307eb8991d",
+      "macro": {
+        "actionName": "A",
+        "keystroke": {
+          "code": 4
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move left (strafe)",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communications",
+      "id": "a54f66c1-d914-40a2-935c-eb2e0df75cd0",
+      "macro": {
+        "actionName": "U",
+        "keystroke": {
+          "code": 24
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Party Voice Push to Talk Key",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Angelito",
+      "id": "49ae8ab6-a408-457f-a8bb-c6a5eef21af7",
+      "macro": {
+        "actionName": "W",
+        "keystroke": {
+          "code": 26
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Accelerate",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communications",
+      "id": "176d82a3-bb8b-424e-87f3-86b3168112e7",
+      "macro": {
+        "actionName": ".",
+        "keystroke": {
+          "code": 55
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Radio Commands Menu Index",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "7e2e9aab-319e-4265-a389-94a87c72ce48",
+      "macro": {
+        "actionName": "1",
+        "keystroke": {
+          "code": 30
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Equip Weapon 1",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communication",
+      "id": "d0b7a136-11ca-41be-8744-e2aeea8bccd1",
+      "macro": {
+        "actionName": "V",
+        "keystroke": {
+          "code": 25
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Squad Comms",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Equipment",
+      "id": "54690786-0075-4863-a3d8-7ddec208e193",
+      "macro": {
+        "actionName": "R",
+        "keystroke": {
+          "code": 21
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Reload",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "bdd6d389-c37c-46a1-8f2f-fbc846a05006",
+      "macro": {
+        "actionName": "Space",
+        "keystroke": {
+          "code": 44
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open Parachute (Falling)",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Equipment",
+      "id": "20e8d590-66e5-4b11-af3d-250227305d77",
+      "macro": {
+        "actionName": "3",
+        "keystroke": {
+          "code": 32
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Equip Melee Weapon",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Angelito",
+      "id": "1d8542ec-5be7-4613-b557-b14c34986773",
+      "macro": {
+        "actionName": "X",
+        "keystroke": {
+          "code": 27
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Shoot Angelito Weapon",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communication",
+      "id": "4f1a795e-7279-4354-bd56-398e52acf863",
+      "macro": {
+        "actionName": "H",
+        "keystroke": {
+          "code": 11
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Toggle Chat Window",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Building",
+      "id": "a8f7d662-8e3e-4774-8329-a34d3d833b64",
+      "macro": {
+        "actionName": "R",
+        "keystroke": {
+          "code": 21
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Rotate Building",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Equipment",
+      "id": "b0aa5cf3-9746-4277-97b1-3ccc8c97ebae",
+      "macro": {
+        "actionName": "4",
+        "keystroke": {
+          "code": 33
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Equip Spike",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Helicopter",
+      "id": "371d1e2b-1717-48c5-bfbf-0762309d5047",
+      "macro": {
+        "actionName": "V",
+        "keystroke": {
+          "code": 25
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Flares",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "8accf598-8435-4d7a-a12d-a602f97acaf2",
+      "macro": {
+        "actionName": "W",
+        "keystroke": {
+          "code": 26
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move forward",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Equipment",
+      "id": "aaba90e0-11c7-4cab-83ff-ce6bbda0727f",
+      "macro": {
+        "actionName": "Y",
+        "keystroke": {
+          "code": 28
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Inspect Weapon",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "db8a8b43-7d7c-40c8-a39e-f169fcbe5ec2",
+      "macro": {
+        "actionName": "6",
+        "keystroke": {
+          "code": 35
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use Med Kit",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "859e58f1-a847-488d-ad4f-848d0c734723",
+      "macro": {
+        "actionName": "Space",
+        "keystroke": {
+          "code": 44
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Jump",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Equipment",
+      "id": "327a2842-4068-4d12-b261-bc79f9c86e3c",
+      "macro": {
+        "actionName": "T",
+        "keystroke": {
+          "code": 23
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use Spray",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "a0fefd86-15d5-4c63-ab42-ea60f63c3bf6",
+      "macro": {
+        "actionName": "F",
+        "keystroke": {
+          "code": 9
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Melee / Takedown / Drop Body",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Interface",
+      "id": "eb8fdb45-b414-4906-af4e-14df60a1df68",
+      "macro": {
+        "actionName": "B",
+        "keystroke": {
+          "code": 5
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open Armory",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "fd4addae-0ad3-4dbe-b413-386de2ed20d0",
+      "macro": {
+        "actionName": "W",
+        "keystroke": {
+          "code": 26
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move Forward",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "6bf8f88c-eeb0-43c2-8109-1262d75337e0",
+      "macro": {
+        "actionName": "Shift",
+        "keystroke": {
+          "modifiers": [225]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Walk",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "8edfb4ba-d446-4e3f-8e71-b6ad26831415",
+      "macro": {
+        "actionName": "2",
+        "keystroke": {
+          "code": 31
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Equip Weapon 2",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Angelito",
+      "id": "a738b0eb-539f-4848-997b-5712f1cb8a92",
+      "macro": {
+        "actionName": "A",
+        "keystroke": {
+          "code": 4
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Steer Left",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Angelito",
+      "id": "63fdb8f5-0a21-48d5-b5ee-29825caf5d54",
+      "macro": {
+        "actionName": "D",
+        "keystroke": {
+          "code": 7
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Steer Right",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "8f62398c-44dd-403d-b922-b2a7b0476c47",
+      "macro": {
+        "actionName": "C",
+        "keystroke": {
+          "code": 6
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use Bandages / Throw Lures",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Angelito",
+      "id": "d64d2666-e431-4ec4-b2fd-6e9fdb15ca08",
+      "macro": {
+        "actionName": "Space",
+        "keystroke": {
+          "code": 44
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Handbrake / Burnout / Throttle Up (Flight Mode)",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Comms",
+      "id": "7bad48bb-0450-4d7c-946d-65ccb49c0ff4",
+      "macro": {
+        "actionName": "K",
+        "keystroke": {
+          "code": 14
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use Mic",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Angelito",
+      "id": "4dda24a7-11db-4488-b153-ad9d4ecd39e5",
+      "macro": {
+        "actionName": "Ctrl",
+        "keystroke": {
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Throttle Down (Flight Mode)",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Angelito",
+      "id": "0047321e-51dd-41a1-abfc-092200178a03",
+      "macro": {
+        "actionName": "Shift",
+        "keystroke": {
+          "modifiers": [225]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Autodrive",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "3fb8e4fe-5c88-4ffc-9794-8f288230fd54",
+      "macro": {
+        "actionName": "C",
+        "keystroke": {
+          "code": 6
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Crouch(Toggle)",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Angelito",
+      "id": "84ba509b-098b-4ebc-8818-f450766b1117",
+      "macro": {
+        "actionName": "4",
+        "keystroke": {
+          "code": 33
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Horn",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Angelito",
+      "id": "4fa8d26f-cebd-429c-972c-744dd7f110a7",
+      "macro": {
+        "actionName": "Q",
+        "keystroke": {
+          "code": 20
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Activate / Deactivate Flight Mode",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Plane",
+      "id": "4ee71efc-401f-495d-9489-ecd867e65817",
+      "macro": {
+        "actionName": "Space",
+        "keystroke": {
+          "code": 44
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Throttle Up",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Angelito",
+      "id": "c863893f-938c-4022-832c-383062cf4ae2",
+      "macro": {
+        "actionName": "F4",
+        "keystroke": {
+          "code": 61
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Show / Hide Controls",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Helicopter",
+      "id": "137a7816-24e0-4b90-960a-f2d2df57565c",
+      "macro": {
+        "actionName": "A",
+        "keystroke": {
+          "code": 4
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move Left",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Helicopter",
+      "id": "a47b3a7b-3ef3-4191-b89c-0df653ae6afb",
+      "macro": {
+        "actionName": "D",
+        "keystroke": {
+          "code": 7
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move Right",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Helicopter",
+      "id": "9b7405b0-47a9-4ce6-8961-35da7b8ca94a",
+      "macro": {
+        "actionName": "W",
+        "keystroke": {
+          "code": 26
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Strafe Up",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Helicopter",
+      "id": "fa27fb2a-2f53-420a-b612-f1e57c11dc47",
+      "macro": {
+        "actionName": "S",
+        "keystroke": {
+          "code": 22
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Strafe Down",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "f0fbebf9-23fe-4616-8a6d-41dd93b7b860",
+      "macro": {
+        "actionName": "Space",
+        "keystroke": {
+          "code": 44
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Roll",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "2e068295-2d77-457a-89fd-7136635a95cf",
+      "macro": {
+        "actionName": "Alt",
+        "keystroke": {
+          "modifiers": [226]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Dodge",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Helicopter",
+      "id": "72cf43f4-ba10-42fa-9df4-da62bc732686",
+      "macro": {
+        "actionName": "Space",
+        "keystroke": {
+          "code": 44
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Throttle Up / Ascend",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Helicopter",
+      "id": "404fdfa3-ac56-4e8a-aebe-90ba64a6fd70",
+      "macro": {
+        "actionName": "Shift",
+        "keystroke": {
+          "modifiers": [225]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Shoot Machine Gun (Buzzer) / Rockets",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Helicopter",
+      "id": "836b2b51-ee95-4f36-ae8c-e1b2a3ee736d",
+      "macro": {
+        "actionName": "F4",
+        "keystroke": {
+          "code": 61
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Show / Hide Controls",
+      "readOnly": true
+    },
+    {
+      "applicationId": "060609de-e73e-472f-bf42-9c0976515a0c",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Controls",
+      "id": "70e24a1e-40aa-4a08-baa2-e0a8f31cb5dc",
+      "macro": {
+        "actionName": "2",
+        "keystroke": {
+          "code": 31
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Emote 2",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Helicopter",
+      "id": "532df9df-16b7-40cb-8867-e50849aa6ec4",
+      "macro": {
+        "actionName": "/",
+        "keystroke": {
+          "code": 56
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Stereo On / Off (Buzzer)",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "df5af50c-04bc-4d2f-9f3d-29ac4df722ab",
+      "macro": {
+        "actionName": "J",
+        "keystroke": {
+          "code": 13
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Quests Panel",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "b6fad9af-2c1b-4ba9-90bb-ab427dee586b",
+      "macro": {
+        "actionName": "6",
+        "keystroke": {
+          "code": 35
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Weapon Slot 5",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Horse",
+      "id": "e05440c3-ffbb-4c0f-b22b-0bd6d987e627",
+      "macro": {
+        "actionName": "W",
+        "keystroke": {
+          "code": 26
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Walk Forward",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Pilot",
+      "id": "47f00959-03b2-4c43-b4ee-77a10e5795f7",
+      "macro": {
+        "actionName": "Up",
+        "keystroke": {
+          "code": 82
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Pitch Down",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Horse",
+      "id": "ed85af87-bb37-43fb-a0a4-50c8ce0b73d2",
+      "macro": {
+        "actionName": "S",
+        "keystroke": {
+          "code": 22
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Walk Backward",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Horse",
+      "id": "3770da24-3b63-4326-9b06-45506b316c85",
+      "macro": {
+        "actionName": "A",
+        "keystroke": {
+          "code": 4
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Steer Left",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "e143cc90-9f5e-4e28-8a7c-8c2ec0c577c7",
+      "macro": {
+        "actionName": "1",
+        "keystroke": {
+          "code": 30
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Draw Steel Sword",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Horse",
+      "id": "829185ad-508e-47fa-8435-3ea04accd447",
+      "macro": {
+        "actionName": "D",
+        "keystroke": {
+          "code": 7
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Steer Right",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Horse",
+      "id": "e5206698-5b7f-43a2-8661-d6c2937cee2c",
+      "macro": {
+        "actionName": "Shift",
+        "keystroke": {
+          "modifiers": [225]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Gallop",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Building",
+      "id": "8415a755-eea7-4240-8a0f-9fb7a4f9ae09",
+      "macro": {
+        "actionName": "F4",
+        "keystroke": {
+          "code": 61
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Roof",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Horse",
+      "id": "835eb312-0e3d-481d-b9e4-309d8863db01",
+      "macro": {
+        "actionName": "F4",
+        "keystroke": {
+          "code": 61
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Display Horse Controls",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Horse",
+      "id": "f631ba78-a510-423e-9156-2da033e1f516",
+      "macro": {
+        "actionName": "Space",
+        "keystroke": {
+          "code": 44
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Autodrive",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Horse",
+      "id": "c49099d4-d943-408b-950b-f6ab7d85cb8a",
+      "macro": {
+        "actionName": "Ctrl",
+        "keystroke": {
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Quick Turn",
+      "readOnly": true
+    },
+    {
+      "applicationId": "060609de-e73e-472f-bf42-9c0976515a0c",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Controls",
+      "id": "2395eea0-0ce5-4efe-be27-0bca4f17ed27",
+      "macro": {
+        "actionName": "Up",
+        "keystroke": {
+          "code": 82
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Grab",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "f3cb10c5-9ca2-4295-9f5c-3507db715026",
+      "macro": {
+        "actionName": "Enter",
+        "keystroke": {
+          "code": 40
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Game Menu",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "2795fc4b-8df2-4bb0-9e90-b446721d0259",
+      "macro": {
+        "actionName": "Shift",
+        "keystroke": {
+          "modifiers": [225]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Sprint",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "e136d25b-f890-48ef-91d1-368e691961e0",
+      "macro": {
+        "actionName": "W",
+        "keystroke": {
+          "code": 26
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move Forward",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "3c3786a7-72c0-403d-951d-e73ca6b4497a",
+      "macro": {
+        "actionName": "S",
+        "keystroke": {
+          "code": 22
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move Backward",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "c24ec0c4-e8cd-4e25-90bf-81e66e822b10",
+      "macro": {
+        "actionName": "3",
+        "keystroke": {
+          "code": 32
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Weapon Slot 2",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "5c3c4104-9648-4570-ab25-f43d93e991ce",
+      "macro": {
+        "actionName": "A",
+        "keystroke": {
+          "code": 4
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move Left",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "3857934c-a18e-4b54-a9fb-87dcc9b06a94",
+      "macro": {
+        "actionName": "Shift",
+        "keystroke": {
+          "modifiers": [225]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Sprint",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "f125367d-cc4b-48f6-afd3-6854adb8973c",
+      "macro": {
+        "actionName": "2",
+        "keystroke": {
+          "code": 31
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Draw Silver Sword",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "8f44067c-b55b-4b21-955d-9c56c8a7b978",
+      "macro": {
+        "actionName": "Q",
+        "keystroke": {
+          "code": 20
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Weapon Wheel",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "9871cbde-48cc-46e8-8479-71440bd6a253",
+      "macro": {
+        "actionName": "R",
+        "keystroke": {
+          "code": 21
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Reload",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "ad670475-d81f-4e1e-bcc1-d4dab95ad5a4",
+      "macro": {
+        "actionName": "V",
+        "keystroke": {
+          "code": 25
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Supremo",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "b2a1610a-223b-4758-9fc6-3a5ce1bc3c52",
+      "macro": {
+        "actionName": "D",
+        "keystroke": {
+          "code": 7
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Strafe Right",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "3200d8f7-348a-4797-bc51-ec1c7204ecdc",
+      "macro": {
+        "actionName": "Z",
+        "keystroke": {
+          "code": 29
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Heal",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "ed64d969-624e-43bf-aae4-e34093b5a495",
+      "macro": {
+        "actionName": "Ctrl",
+        "keystroke": {
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Crouch / Slide",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "a75b9389-affc-4794-8b6d-975fa84cae89",
+      "macro": {
+        "actionName": "R",
+        "keystroke": {
+          "code": 21
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Reload",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "7e322f61-da18-4121-973a-b2814488226a",
+      "macro": {
+        "actionName": "E",
+        "keystroke": {
+          "code": 8
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Interact",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Vehicle",
+      "id": "e26a94d6-7e41-44b4-b28c-aa526fc121a8",
+      "macro": {
+        "actionName": "Ctrl",
+        "keystroke": {
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Switch Seats",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "e0a30e99-ed4b-4ee9-bf2b-bd8f03b7efcf",
+      "macro": {
+        "actionName": "G",
+        "keystroke": {
+          "code": 10
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Summon / Direct Amigos",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "103c9225-047f-4853-a3d8-57b7090e3f12",
+      "macro": {
+        "actionName": "X",
+        "keystroke": {
+          "code": 27
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Phone Camera",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "91cdeb55-35d9-4160-9812-d310c8485919",
+      "macro": {
+        "actionName": "6",
+        "keystroke": {
+          "code": 35
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Select 1st Gadget (In Weapon Wheel)",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "7424e617-469d-4f4b-8f80-a583d3b5a185",
+      "macro": {
+        "actionName": "7",
+        "keystroke": {
+          "code": 36
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Select 2nd Gadget (In Weapon Wheel)",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Pilot",
+      "id": "24917501-bdb4-4b59-b1cc-1052907215f1",
+      "macro": {
+        "actionName": "Down",
+        "keystroke": {
+          "code": 81
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Pitch Up",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "56f84b9d-bd60-4375-9970-1b35f5f70bc5",
+      "macro": {
+        "actionName": "G",
+        "keystroke": {
+          "code": 10
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Throw Grenade",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "0441de9e-9403-4f57-b463-85a2dd8ea853",
+      "macro": {
+        "actionName": "8",
+        "keystroke": {
+          "code": 37
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Select 3rd Gadget (In Weapon Wheel)",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "b2c03a4e-eef4-47e1-b8c3-1f8443801f79",
+      "macro": {
+        "actionName": "9",
+        "keystroke": {
+          "code": 38
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Select 4th Gadget (In Weapon Wheel)",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "On Foot",
+      "id": "874b2fe6-4565-47f2-9db6-e81942b2b60b",
+      "macro": {
+        "actionName": "K",
+        "keystroke": {
+          "code": 14
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Change Fire Mode (In Weapon Wheel)",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "3f6f61c6-e130-4e91-bd90-e08bfe9abd4a",
+      "macro": {
+        "actionName": "Y",
+        "keystroke": {
+          "code": 28
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Consumables Slot 4",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Plane",
+      "id": "e40e98e1-ce6b-4e0c-83a0-a68e1653987c",
+      "macro": {
+        "actionName": "W",
+        "keystroke": {
+          "code": 26
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Pitch Up",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "e41770ad-683f-419d-b985-207c843e8f8a",
+      "macro": {
+        "actionName": "X",
+        "keystroke": {
+          "code": 27
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Crouch (TOGGLE) / Slide (Double Tap From Sprint) / Prone (HOLD)",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Interface",
+      "id": "747970dc-89b4-420c-8e99-6b19eea9b704",
+      "macro": {
+        "actionName": "Tab",
+        "keystroke": {
+          "code": 43
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Scoreboard",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Plane",
+      "id": "b61ab1ff-1aff-466e-8ed0-c2d301591df4",
+      "macro": {
+        "actionName": "S",
+        "keystroke": {
+          "code": 22
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Pitch Down",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Plane",
+      "id": "ec9386b2-d642-483b-bebf-0ca93427dd3b",
+      "macro": {
+        "actionName": "A",
+        "keystroke": {
+          "code": 4
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Roll Left",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "ded755c8-35bd-4aa5-8c7c-f77830b55dfc",
+      "macro": {
+        "actionName": "3",
+        "keystroke": {
+          "code": 32
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Holster Weapons",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Plane",
+      "id": "f6984e03-2385-40c7-ba13-ff0359bcbdb5",
+      "macro": {
+        "actionName": "D",
+        "keystroke": {
+          "code": 7
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Roll Right",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communication",
+      "id": "8c20f423-91fb-4304-bcda-6eea5ec61ecc",
+      "macro": {
+        "actionName": "F",
+        "keystroke": {
+          "code": 9
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Ping(Enemy Here) ",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Plane",
+      "id": "7f07bd94-6753-498d-a168-147069f37dc8",
+      "macro": {
+        "actionName": "Shift",
+        "keystroke": {
+          "modifiers": [225]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Bomber View",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Plane",
+      "id": "f9d9017f-a858-44d8-854a-056e50f96a1f",
+      "macro": {
+        "actionName": "Ctrl",
+        "keystroke": {
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Throttle Down / Landing Stabilizer",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Vehicle",
+      "id": "7f5b8680-30c8-4bb9-a615-4b1ac217aff7",
+      "macro": {
+        "actionName": "Shift",
+        "keystroke": {
+          "modifiers": [225]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Autodrive",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Vehicle",
+      "id": "cc47f9c3-04fc-45c9-ae06-7a809100bd1b",
+      "macro": {
+        "actionName": "A",
+        "keystroke": {
+          "code": 4
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Steer Left",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "34d22d4a-0fa4-4b9a-beca-f872a5f455ad",
+      "macro": {
+        "actionName": "I",
+        "keystroke": {
+          "code": 12
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Secondary Inventory",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Vehicle",
+      "id": "d6b6c325-37e7-4c44-b74e-7c173c977ca5",
+      "macro": {
+        "actionName": "D",
+        "keystroke": {
+          "code": 7
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Steer Right",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Vehicle",
+      "id": "e6327653-f205-42fa-9123-125108237b4f",
+      "macro": {
+        "actionName": "V",
+        "keystroke": {
+          "code": 25
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use Countermeasure",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "023eec28-7c2b-44f7-8de4-d529bf5883ab",
+      "macro": {
+        "actionName": "X",
+        "keystroke": {
+          "code": 27
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Call Horse",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Vehicle",
+      "id": "073423f0-a1f1-47f3-b016-dd84d7dee36a",
+      "macro": {
+        "actionName": "F4",
+        "keystroke": {
+          "code": 61
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Show / Hide Controls",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Vehicle",
+      "id": "7c099f2a-5edc-431a-8e2a-4d97b3280eac",
+      "macro": {
+        "actionName": ".",
+        "keystroke": {
+          "code": 55
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Cycle Radio Station",
+      "readOnly": true
+    },
+    {
+      "applicationId": "c4f67c73-fdef-4205-a143-0f1f56cab6ef",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Vehicle",
+      "id": "b47d292b-815b-476b-9e7c-2936637c242a",
+      "macro": {
+        "actionName": "/",
+        "keystroke": {
+          "code": 56
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Stereo On / Off",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Combat",
+      "id": "c074561a-b27f-4de3-bf71-d9535e516eb2",
+      "macro": {
+        "actionName": "E",
+        "keystroke": {
+          "code": 8
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use item (buttons,machines,...)",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Combat",
+      "id": "1d051816-d81a-4b36-b192-81cbde7baee7",
+      "macro": {
+        "actionName": "G",
+        "keystroke": {
+          "code": 10
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Gravity Gun",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Combat",
+      "id": "dae411fb-483a-46ea-b0e5-1c3f42ed5934",
+      "macro": {
+        "actionName": "F",
+        "keystroke": {
+          "code": 9
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Flashlight",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Combat",
+      "id": "b4c4fc2c-3c8f-45c5-a1ae-d7b24ab50dd8",
+      "macro": {
+        "actionName": "1",
+        "keystroke": {
+          "code": 30
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Weapon category 1",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Combat",
+      "id": "d05ed790-e4f6-4277-9cd6-d7a4a280aa58",
+      "macro": {
+        "actionName": "2",
+        "keystroke": {
+          "code": 31
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Weapon category 2",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Building",
+      "id": "74bba94f-48c0-4709-aa7c-8c2af7122571",
+      "macro": {
+        "actionName": "Q",
+        "keystroke": {
+          "code": 20
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Switch Quickbar",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Combat",
+      "id": "44339947-e6f3-4750-84bb-5324ef5dd7c2",
+      "macro": {
+        "actionName": "4",
+        "keystroke": {
+          "code": 33
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Weapon category 4",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Combat",
+      "id": "54655990-f10e-4480-86a8-eba4aaf25e44",
+      "macro": {
+        "actionName": "6",
+        "keystroke": {
+          "code": 35
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Weapon category 6",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Miscellaneous",
+      "id": "e086a593-2d0a-437c-b1ec-ae1dbdf11b26",
+      "macro": {
+        "actionName": "F5",
+        "keystroke": {
+          "code": 62
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Take screen shot",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Miscellaneous",
+      "id": "5c58178b-c425-4fae-9a69-efa47c1ffde4",
+      "macro": {
+        "actionName": "F6",
+        "keystroke": {
+          "code": 63
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Quick save",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "ba25842b-ea63-44d9-aa60-eb9861d3bd1c",
+      "macro": {
+        "actionName": "W",
+        "keystroke": {
+          "code": 26
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move forward",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "ade50521-4dab-4e91-9f70-f1ce85cccdb4",
+      "macro": {
+        "actionName": "Shift",
+        "keystroke": {
+          "modifiers": [225]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Sprint (Move Quickly)",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Interface",
+      "id": "45c1c4b4-d823-4ff6-9b3b-8f9c72494a72",
+      "macro": {
+        "actionName": "M",
+        "keystroke": {
+          "code": 16
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Toggle Map",
+      "readOnly": true
+    },
+    {
+      "applicationId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "e08382dd-8888-4a00-801f-f9538915ce25",
+      "macro": {
+        "actionName": "Ctrl",
+        "keystroke": {
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Duck",
+      "profileId": "18c36b33-3052-4fd8-a6df-2968e11bfc8f",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "58d053fa-8620-40e9-81d5-b2064d9cf7d6",
+      "macro": {
+        "actionName": "2",
+        "keystroke": {
+          "code": 31
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Secondary",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "ca3117b7-02d5-49a2-83f6-7e84476e8384",
+      "macro": {
+        "actionName": "S",
+        "keystroke": {
+          "code": 22
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move Back",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "0f6a09da-a004-4b0b-a8cd-c73eccedbcbf",
+      "macro": {
+        "actionName": "D",
+        "keystroke": {
+          "code": 7
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move Right",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "9d8ff841-8a83-40b7-b11b-b7b1ec073df1",
+      "macro": {
+        "actionName": "Shift",
+        "keystroke": {
+          "modifiers": [225]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Sprint",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "d72cc333-97aa-46d9-9ced-67f9e482ba76",
+      "macro": {
+        "actionName": "Space",
+        "keystroke": {
+          "code": 44
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Jump",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "daf3283f-a804-4af1-8a9d-ebe121d4bc50",
+      "macro": {
+        "actionName": "Ctrl",
+        "keystroke": {
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Crouch(Hold)",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "7f0212fb-6d62-4dc7-afa7-6d6e978c7e02",
+      "macro": {
+        "actionName": "5",
+        "keystroke": {
+          "code": 34
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use Syringe",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "4101e828-4473-4c18-a96c-8f7ed5862c0e",
+      "macro": {
+        "actionName": "Q",
+        "keystroke": {
+          "code": 20
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Tactical Ability",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "ef8136b8-1d63-4cfe-b833-20bddf0e418b",
+      "macro": {
+        "actionName": "Z",
+        "keystroke": {
+          "code": 29
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Ultimate Ability",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "6fcbfa74-c281-4c56-b632-201d77f38d45",
+      "macro": {
+        "actionName": "E",
+        "keystroke": {
+          "code": 8
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Interact/Pickup",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "d7875a9a-951e-4c75-a89c-40666a298aac",
+      "macro": {
+        "actionName": "M",
+        "keystroke": {
+          "code": 16
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Map",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "6dba880d-5883-48be-898c-735b138a03c9",
+      "macro": {
+        "actionName": "B",
+        "keystroke": {
+          "code": 5
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Toggle Fire Mode",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Building",
+      "id": "74e0005a-a10b-4611-ac63-09a6b84e37c9",
+      "macro": {
+        "actionName": "F3",
+        "keystroke": {
+          "code": 60
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Stairs",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "668364d3-0168-437c-bab4-59e5e8ed7bfb",
+      "macro": {
+        "actionName": "G",
+        "keystroke": {
+          "code": 10
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Equip Grenade",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "00a799e5-7007-49f3-938f-6ccf93eb54bd",
+      "macro": {
+        "actionName": "R",
+        "keystroke": {
+          "code": 21
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Reload",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "969ea1e0-1ccf-4275-9354-0cb708e59432",
+      "macro": {
+        "actionName": "4",
+        "keystroke": {
+          "code": 33
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use Selected Health Item",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "53d07088-6c63-4546-b531-243b160430c7",
+      "macro": {
+        "actionName": "9",
+        "keystroke": {
+          "code": 38
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use Phoenix Kit",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons & Abilities",
+      "id": "934c46ba-b7a7-44b9-b095-a481b16c59a9",
+      "macro": {
+        "actionName": "H",
+        "keystroke": {
+          "code": 11
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Character Utility Actions",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "e496a2d6-ed4d-45b6-a712-4125eda2d2c3",
+      "macro": {
+        "actionName": "Shift",
+        "keystroke": {
+          "modifiers": [225]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Gallop/Canter",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communication",
+      "id": "bb465d3e-d5dc-4974-9c51-c5979f00b9b1",
+      "macro": {
+        "actionName": "F1",
+        "keystroke": {
+          "code": 58
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open Quip Wheel/Thank You",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communication",
+      "id": "fe633034-9308-436c-b31e-da605e4582dd",
+      "macro": {
+        "actionName": "T",
+        "keystroke": {
+          "code": 23
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Push to Talk(Hold)",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communication",
+      "id": "5d5228eb-fc42-4dc8-b549-db19df27347b",
+      "macro": {
+        "actionName": "Enter",
+        "keystroke": {
+          "code": 40
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Message Team (In Match)",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Miscellaneous",
+      "id": "3c71bf40-4aa4-4d03-bddd-00173f865d59",
+      "macro": {
+        "actionName": "F2",
+        "keystroke": {
+          "code": 59
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Character Info",
+      "profileId": "f7cd4331-19d3-487a-9ddb-016d9b11ec77",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communications",
+      "id": "c61d5419-d478-4b9b-bcd6-7d79df6a4d97",
+      "macro": {
+        "actionName": "V",
+        "keystroke": {
+          "code": 25
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Team Voice Push to Talk Key",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communications",
+      "id": "4074b9a7-d3a1-463f-92b3-b93c143ab393",
+      "macro": {
+        "actionName": "Z",
+        "keystroke": {
+          "code": 29
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Ping/Ping Wheel",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communications",
+      "id": "27ed9133-8221-4845-86ba-c044655d0368",
+      "macro": {
+        "actionName": ",",
+        "keystroke": {
+          "code": 54
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Radio Command Wheel Index",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Equipment",
+      "id": "a7e840ef-0eb4-41a6-a8d8-957310403cb0",
+      "macro": {
+        "actionName": "1",
+        "keystroke": {
+          "code": 30
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Equip Primary Weapon",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Equipment",
+      "id": "c814bca1-1714-45ec-82c3-4c6b383a5405",
+      "macro": {
+        "actionName": "2",
+        "keystroke": {
+          "code": 31
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Equip Secondary Weapon",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Equipment",
+      "id": "e8cdaa59-a70e-4b79-b16f-536671a6c9b8",
+      "macro": {
+        "actionName": "G",
+        "keystroke": {
+          "code": 10
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Drop Equipped Item",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Equipment",
+      "id": "59d8b36f-a687-4d90-97bd-0d45350212c8",
+      "macro": {
+        "actionName": "Q",
+        "keystroke": {
+          "code": 20
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use/Equip Ability: 1",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Equipment",
+      "id": "ced37f68-7eca-4961-83ec-dc4826f1ee9d",
+      "macro": {
+        "actionName": "E",
+        "keystroke": {
+          "code": 8
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use/Equip Ability: 2",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Equipment",
+      "id": "09992788-dc83-44a7-8162-408caa03bb70",
+      "macro": {
+        "actionName": "C",
+        "keystroke": {
+          "code": 6
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use/Equip Ability: 3",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Equipment",
+      "id": "a45415c5-6d9a-462d-9281-9680b9319162",
+      "macro": {
+        "actionName": "X",
+        "keystroke": {
+          "code": 27
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use/Equip Ability: Ultimate",
+      "readOnly": true
+    },
+    {
+      "attribute": "CENTURION_EQUALIZER",
+      "centurionEqualizer": {
+        "deviceType": "HEADSET",
+        "gains": [0, -2, 3, 3, 3],
+        "name": "EQUALIZER_MOBA",
+        "type": "CENTURION"
+      },
+      "id": "b2c8ab8c-8366-4905-9f1c-b4ed12d31326",
+      "name": "EQUALIZER_MOBA",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Interface",
+      "id": "bc6ff858-6518-486b-8130-286fe19dcb57",
+      "macro": {
+        "actionName": "Alt",
+        "keystroke": {
+          "modifiers": [226]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Show Teammate Loadouts",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Interface",
+      "id": "081931f7-1176-40db-bed6-a128fc455eb0",
+      "macro": {
+        "actionName": "F1",
+        "keystroke": {
+          "code": 58
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Agent Ability Tooltip",
+      "readOnly": true
+    },
+    {
+      "applicationId": "060609de-e73e-472f-bf42-9c0976515a0c",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Controls",
+      "id": "147bd3cb-62a1-4cb8-a4ea-9e00a998ec6d",
+      "macro": {
+        "actionName": "S",
+        "keystroke": {
+          "code": 22
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move Down",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Interface",
+      "id": "89a2b4b8-7176-4125-9af6-8e1687d4a42a",
+      "macro": {
+        "actionName": "M",
+        "keystroke": {
+          "code": 16
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open Map",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "95147163-278f-4d7d-8f42-2129ceec30d7",
+      "macro": {
+        "actionName": "Tab",
+        "keystroke": {
+          "code": 43
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Quick Access Menu",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Interface",
+      "id": "977c97ac-ec4b-4c03-b359-18026076cad8",
+      "macro": {
+        "actionName": "Tab",
+        "keystroke": {
+          "code": 43
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Show Scoreboard",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Interface",
+      "id": "d2d65c16-ed01-488d-9f69-6f013a6b2c7f",
+      "macro": {
+        "actionName": "F5",
+        "keystroke": {
+          "code": 62
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Vote Option 1",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Interface",
+      "id": "3cccbf81-f068-4361-8e10-bfd35cb7a0a3",
+      "macro": {
+        "actionName": "F6",
+        "keystroke": {
+          "code": 63
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Vote Option 2",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "a9b663e7-1d90-4f09-82a0-eb22a43b63bc",
+      "macro": {
+        "actionName": "4",
+        "keystroke": {
+          "code": 33
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Select Gadget Two",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Interface",
+      "id": "15415b26-abdb-4e31-a1a0-e3f54a2b58d2",
+      "macro": {
+        "actionName": "V",
+        "keystroke": {
+          "code": 25
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Toggle Free Camera",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "6d6d9174-2473-4e4b-b293-cc226bd3be15",
+      "macro": {
+        "actionName": "S",
+        "keystroke": {
+          "code": 22
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Back",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "8b097dc1-e8a8-49db-8e7f-ad6ededeea92",
+      "macro": {
+        "actionName": "0",
+        "keystroke": {
+          "code": 39
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Molotov Cocktail",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "c659d83d-a320-4827-856d-3d22e9444825",
+      "macro": {
+        "actionName": "A",
+        "keystroke": {
+          "code": 4
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Strafe Left",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communication",
+      "id": "74d38b9c-6f75-4a3c-893a-724a43cc20e1",
+      "macro": {
+        "actionName": "Y",
+        "keystroke": {
+          "code": 28
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Push To Talk",
+      "readOnly": true
+    },
+    {
+      "applicationId": "48574816-5d5d-4e5b-b616-9c3af2c15bbf",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "6a20c44b-8b10-4996-9aca-c60767b4f3ea",
+      "macro": {
+        "actionName": "D",
+        "keystroke": {
+          "code": 7
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Strafe Right",
+      "readOnly": true
+    },
+    {
+      "attribute": "CENTURION_EQUALIZER",
+      "centurionEqualizer": {
+        "deviceType": "HEADSET",
+        "gains": [2, 2, 0, 4, 1],
+        "name": "EQUALIZER_FPS",
+        "type": "CENTURION"
+      },
+      "id": "61fba25f-d535-4183-86d9-8ed4ab0278dd",
+      "name": "EQUALIZER_FPS",
+      "readOnly": true
+    },
+    {
+      "attribute": "CENTURION_EQUALIZER",
+      "centurionEqualizer": {
+        "deviceType": "HEADSET",
+        "gains": [0, 0, 0, 0, 0],
+        "name": "EQUALIZER_FLAT",
+        "type": "CENTURION"
+      },
+      "id": "123e0346-e78a-43e0-b81c-55d24f267f5c",
+      "name": "EQUALIZER_FLAT",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "25ab1af2-8494-4f5c-8001-cfd0a79cdb99",
+      "macro": {
+        "actionName": "=",
+        "keystroke": {
+          "code": 46
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Auto Run",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Building",
+      "id": "3b813742-d76a-43d3-8026-52f217d18bc6",
+      "macro": {
+        "actionName": "G",
+        "keystroke": {
+          "code": 10
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Building Edit",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "c2c2e396-025c-4664-805f-405a5978c962",
+      "macro": {
+        "actionName": "S",
+        "keystroke": {
+          "code": 22
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move backwards",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "79f7a8ec-74c9-40b5-8a5d-4634853367de",
+      "macro": {
+        "actionName": "A",
+        "keystroke": {
+          "code": 4
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move left",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "66cea174-a2b0-4465-8fb0-3fd28ebb0564",
+      "macro": {
+        "actionName": "Shift",
+        "keystroke": {
+          "modifiers": [225]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Sprint",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "59b72143-b2e7-42e0-97a3-00231b8b2e34",
+      "macro": {
+        "actionName": "E",
+        "keystroke": {
+          "code": 8
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Interact",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "8f44165d-4e2f-44a1-852b-4f20665043ff",
+      "macro": {
+        "actionName": "D",
+        "keystroke": {
+          "code": 7
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move right",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "8356d11c-c1ff-4505-8e2c-716d0c0c56cc",
+      "macro": {
+        "actionName": "Ctrl",
+        "keystroke": {
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Crouch",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "ec13b82a-1698-4b6a-be0c-3634b1029df8",
+      "macro": {
+        "actionName": "E",
+        "keystroke": {
+          "code": 8
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Use",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Inventory",
+      "id": "bb3a8130-58dd-4c77-9465-0c239f4c42eb",
+      "macro": {
+        "actionName": "1",
+        "keystroke": {
+          "code": 30
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Harvesting Tool",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "b3f48198-7139-4316-aeef-27230d2b7eda",
+      "macro": {
+        "actionName": "Shift",
+        "keystroke": {
+          "modifiers": [225]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Modify Action Type",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Building",
+      "id": "07bd4b4f-e438-40b9-81bf-a4af442eb872",
+      "macro": {
+        "actionName": "F2",
+        "keystroke": {
+          "code": 59
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Floor",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "9e4591e0-1e52-4686-99f4-cf8d0a109cd5",
+      "macro": {
+        "actionName": "2",
+        "keystroke": {
+          "code": 31
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Weapon Slot 1",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "e3431d8a-1551-40d7-aeec-7222ec567c28",
+      "macro": {
+        "actionName": "7",
+        "keystroke": {
+          "code": 36
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Weapon Slot 6",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Building",
+      "id": "91d861e7-3911-4770-85ce-eabaaffad2d8",
+      "macro": {
+        "actionName": "F1",
+        "keystroke": {
+          "code": 58
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Wall",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communication",
+      "id": "fe7b6f29-b6cd-46b9-8af4-2c1cdd03c5cb",
+      "macro": {
+        "actionName": "Enter",
+        "keystroke": {
+          "code": 40
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Chat",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Building",
+      "id": "06458321-8aff-46e2-8715-15311c33b4a0",
+      "macro": {
+        "actionName": "F",
+        "keystroke": {
+          "code": 9
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Repair / Upgrade",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "2103e570-dedc-4c8f-88cc-904c2591b677",
+      "macro": {
+        "actionName": "K",
+        "keystroke": {
+          "code": 14
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Character Panel",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Building",
+      "id": "498c0a4e-6f17-4b52-ab20-166de4cb85d2",
+      "macro": {
+        "actionName": "P",
+        "keystroke": {
+          "code": 19
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Selected Building Type",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "e46faae2-200a-4659-9b07-dfac37b5b26a",
+      "macro": {
+        "actionName": "E",
+        "keystroke": {
+          "code": 8
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Vehicle Exit",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Building",
+      "id": "9c6ded77-6789-45f6-a85f-3b36cdbd1a77",
+      "macro": {
+        "actionName": "T",
+        "keystroke": {
+          "code": 23
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Trap Equip / Picker",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Building",
+      "id": "827ba67c-6798-40a5-809d-7e5ea21cf5d9",
+      "macro": {
+        "actionName": "Alt",
+        "keystroke": {
+          "modifiers": [226]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Cursor Mode",
+      "readOnly": true
+    },
+    {
+      "applicationId": "b2fd8db8-b15c-49f0-91a8-7839ee611aaa",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communication",
+      "id": "e413e7b4-9b84-46ef-8981-06ec3c47644a",
+      "macro": {
+        "actionName": "B",
+        "keystroke": {
+          "code": 5
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Emote",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communication",
+      "id": "182aaf17-7c51-4453-8788-114b3ece6165",
+      "macro": {
+        "actionName": "J",
+        "keystroke": {
+          "code": 13
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Select 'ALL' Chat Channel",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communication",
+      "id": "ddd28833-c171-4963-b711-8cfe3396d6f5",
+      "macro": {
+        "actionName": "K",
+        "keystroke": {
+          "code": 14
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Select 'TEAM' Chat Channel",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "cf52e860-aff2-46d4-affb-8c8cb2a7840f",
+      "macro": {
+        "actionName": "V",
+        "keystroke": {
+          "code": 25
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Fire Mode",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "e31ea2e4-7975-4a05-bfca-cc70e88a0fbf",
+      "macro": {
+        "actionName": "Space",
+        "keystroke": {
+          "code": 44
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Jump/Vault/Parachute Deploy",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communication",
+      "id": "f1518ff3-0283-4b73-b2bb-babff5974914",
+      "macro": {
+        "actionName": "L",
+        "keystroke": {
+          "code": 15
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Select 'SQUAD' Chat Channel",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communication",
+      "id": "c210a3a6-6935-41fd-b645-ad194b33b7fc",
+      "macro": {
+        "actionName": "Enter",
+        "keystroke": {
+          "code": 40
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Open Chat Window",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Miscellaneous",
+      "id": "2a7ae73b-c59b-46ac-bcee-8fb41b7404a2",
+      "macro": {
+        "actionName": "F3",
+        "keystroke": {
+          "code": 60
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Switch to Vehicle Seat 3",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communication",
+      "id": "58b7a375-581f-4049-9ac8-d9250ff7d72a",
+      "macro": {
+        "actionName": "M",
+        "keystroke": {
+          "code": 16
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Full Map",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "78fe322f-fe3c-4142-b99f-a90c51dca166",
+      "macro": {
+        "actionName": "A",
+        "keystroke": {
+          "code": 4
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Strafe Left",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communication",
+      "id": "cb356863-cd97-4b2c-a05e-ba6c6da09346",
+      "macro": {
+        "actionName": "B",
+        "keystroke": {
+          "code": 5
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Squad Leader Radio",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communication",
+      "id": "c383d4df-4496-487e-bf13-b04552d2a8f9",
+      "macro": {
+        "actionName": "Q",
+        "keystroke": {
+          "code": 20
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Danger Ping (TOGGLE) / Commo Rose (HOLD)",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Communication",
+      "id": "90acddbb-bea1-486e-873e-db355a58b8f7",
+      "macro": {
+        "actionName": "N",
+        "keystroke": {
+          "code": 17
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Zoom Minimap",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Miscellaneous",
+      "id": "d911e9c7-6c76-4ddd-b3af-47508c9bf4f5",
+      "macro": {
+        "actionName": "Tab",
+        "keystroke": {
+          "code": 43
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Scoreboard",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "03b5f55f-4798-4461-8b68-65788a1fb4f8",
+      "macro": {
+        "actionName": "R",
+        "keystroke": {
+          "code": 21
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Reload",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "7c895aeb-451d-464c-a042-f21e6b03f5a1",
+      "macro": {
+        "actionName": "2",
+        "keystroke": {
+          "code": 31
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Secondary Weapon",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "812e8a32-2f09-4c2a-b6dc-1cb8df5b094d",
+      "macro": {
+        "actionName": "3",
+        "keystroke": {
+          "code": 32
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Select Gadget One",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "4cdb5a2a-4e4e-498a-9116-38930767077c",
+      "macro": {
+        "actionName": "T",
+        "keystroke": {
+          "code": 23
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Toggle Toolbox",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "38b722f0-a2c2-4e40-bbb4-ed9452298381",
+      "macro": {
+        "actionName": "7",
+        "keystroke": {
+          "code": 36
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Flashbang",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Pilot",
+      "id": "83cf8efe-adc9-4f80-b737-96aa7cf38da5",
+      "macro": {
+        "actionName": "Left",
+        "keystroke": {
+          "code": 80
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Roll Left",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "69be816f-e658-42c2-8b9c-4c2b4d8bb2c7",
+      "macro": {
+        "actionName": "F",
+        "keystroke": {
+          "code": 9
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Melee Attack",
+      "readOnly": true
+    },
+    {
+      "applicationId": "2ed4c880-b90b-4419-8c65-530789efa511",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Miscellaneous",
+      "id": "a84ba589-02c4-4b3f-89b5-5321b9d380fd",
+      "macro": {
+        "actionName": "F2",
+        "keystroke": {
+          "code": 59
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Switch to Vehicle Seat 2",
+      "readOnly": true
+    },
+    {
+      "applicationId": "060609de-e73e-472f-bf42-9c0976515a0c",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Controls",
+      "id": "831e73c2-bc85-433d-9786-5e1668c8dc99",
+      "macro": {
+        "actionName": "W",
+        "keystroke": {
+          "code": 26
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move Up",
+      "readOnly": true
+    },
+    {
+      "applicationId": "060609de-e73e-472f-bf42-9c0976515a0c",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Controls",
+      "id": "90afdb70-fdac-45a8-9421-7c37659bbd84",
+      "macro": {
+        "actionName": "A",
+        "keystroke": {
+          "code": 4
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move Left",
+      "readOnly": true
+    },
+    {
+      "applicationId": "060609de-e73e-472f-bf42-9c0976515a0c",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Controls",
+      "id": "3c4bd7d5-4ab4-41cb-9584-eb36699fcb8d",
+      "macro": {
+        "actionName": "Space",
+        "keystroke": {
+          "code": 44
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Jump",
+      "readOnly": true
+    },
+    {
+      "applicationId": "060609de-e73e-472f-bf42-9c0976515a0c",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Controls",
+      "id": "0697d705-8cf4-438e-97f8-ca3244ca0373",
+      "macro": {
+        "actionName": "3",
+        "keystroke": {
+          "code": 32
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Emote 3 ",
+      "readOnly": true
+    },
+    {
+      "applicationId": "060609de-e73e-472f-bf42-9c0976515a0c",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Controls",
+      "id": "6b2fac05-dd50-4f13-bcff-507216c56a65",
+      "macro": {
+        "actionName": "4",
+        "keystroke": {
+          "code": 33
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Emote 4",
+      "readOnly": true
+    },
+    {
+      "applicationId": "060609de-e73e-472f-bf42-9c0976515a0c",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Controls",
+      "id": "d49e5bdb-e36c-4cf1-acf7-257f69c08099",
+      "macro": {
+        "actionName": "Tab",
+        "keystroke": {
+          "code": 43
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Show Names",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "25cfc31e-182f-4256-89d9-c2a8675b83b1",
+      "macro": {
+        "actionName": "Z",
+        "keystroke": {
+          "code": 29
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Lock On Target",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "be883883-469f-49b4-afc0-92ed50c4d500",
+      "macro": {
+        "actionName": "S",
+        "keystroke": {
+          "code": 22
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Movement - Down",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "f177c93d-6f3c-4bc7-9e78-5c0ef73f13f4",
+      "macro": {
+        "actionName": "W",
+        "keystroke": {
+          "code": 26
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Movement - Up",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "61cf55a6-3627-4af1-88f9-877e7c6b3b0d",
+      "macro": {
+        "actionName": "D",
+        "keystroke": {
+          "code": 7
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Movement - Right",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "34458ee6-85dd-4a73-93d2-6800c7dad2a2",
+      "macro": {
+        "actionName": "A",
+        "keystroke": {
+          "code": 4
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Movement - Left",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "bed65fae-bd8c-4ddc-8fbc-5117fd0affeb",
+      "macro": {
+        "actionName": "L",
+        "keystroke": {
+          "code": 15
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Alchemy",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "2756d0f0-446a-4485-8e6f-924a5fae5c62",
+      "macro": {
+        "actionName": "Ctrl",
+        "keystroke": {
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Toggle Walk/Run",
+      "readOnly": true
+    },
+    {
+      "attribute": "MACRO_PLAYBACK",
+      "category": "LAUNCH_APPLICATION",
+      "id": "9e20b02f-849b-4541-b50e-545fb1250418",
+      "macro": {
+        "app": {
+          "executablePath": "C:\\Users\\getsg\\AppData\\Local\\Obsidian\\Obsidian.exe"
+        },
+        "type": "APP"
+      },
+      "name": "Obsidian"
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "a97dc671-c1bb-4d46-9604-acb3d829c980",
+      "macro": {
+        "actionName": "Space",
+        "keystroke": {
+          "code": 44
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Jump",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "04c80147-d972-4b7f-b7b1-375d2c84b029",
+      "macro": {
+        "actionName": "E",
+        "keystroke": {
+          "code": 8
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Dismount",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "f428bddb-b207-4b4e-905c-9ea4d0c27001",
+      "macro": {
+        "actionName": "7",
+        "keystroke": {
+          "code": 36
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Select Axii",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "15ba83b1-545f-4eec-bd4c-7ef7c3cd9728",
+      "macro": {
+        "actionName": "X",
+        "keystroke": {
+          "code": 27
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Stop Horse",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "986c0cb3-106e-4558-9c3d-d1b46929a723",
+      "macro": {
+        "actionName": "C",
+        "keystroke": {
+          "code": 6
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Dive",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "6bddf993-aecc-42bb-b981-43ba46aa8d2e",
+      "macro": {
+        "actionName": "R",
+        "keystroke": {
+          "code": 21
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Consumables Slot 1",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "044c3a3d-1f91-45cd-84fa-ca56ff54bf52",
+      "macro": {
+        "actionName": "F",
+        "keystroke": {
+          "code": 9
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Consumables Slot 2",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "549000f5-02c6-4380-98e8-4ce8750b1131",
+      "macro": {
+        "actionName": "4",
+        "keystroke": {
+          "code": 33
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Select Yrden",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "37a53e85-48d4-45df-949a-c4851812a65d",
+      "macro": {
+        "actionName": "B",
+        "keystroke": {
+          "code": 5
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Bestiary",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "c99a8b00-e692-42a5-85ee-09dbe88940cd",
+      "macro": {
+        "actionName": "Home",
+        "keystroke": {
+          "code": 74
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Show/Hide HUD",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "e9427610-b87b-46f0-b39f-4a2bd9d6d286",
+      "macro": {
+        "actionName": "I",
+        "keystroke": {
+          "code": 12
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Inventory Panel",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "3e83b6d1-8051-431e-b5f8-0ab32a55e161",
+      "macro": {
+        "actionName": "M",
+        "keystroke": {
+          "code": 16
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Map",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "10e94075-6a39-4020-8773-af48ded3ec45",
+      "macro": {
+        "actionName": "N",
+        "keystroke": {
+          "code": 17
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Meditation",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "27f675f1-7c88-4f38-bb8f-f0696325df8f",
+      "macro": {
+        "actionName": "F5",
+        "keystroke": {
+          "code": 62
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Quick Save",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "2aec569b-1c23-423b-8602-80daefd42e35",
+      "macro": {
+        "actionName": "O",
+        "keystroke": {
+          "code": 18
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Crafting",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "771424b7-be91-4a40-9cdb-a8e132a0d6da",
+      "macro": {
+        "actionName": "G",
+        "keystroke": {
+          "code": 10
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Glossary Panel",
+      "readOnly": true
+    },
+    {
+      "applicationId": "8fc00b1c-0dae-4ec3-a376-f68d2a3193e8",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Action",
+      "id": "fffc7311-4e4a-4d12-9ad6-7fbb58f03ec1",
+      "macro": {
+        "actionName": "H",
+        "keystroke": {
+          "code": 11
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Gwent Deck",
+      "readOnly": true
+    },
+    {
+      "attribute": "MACRO_PLAYBACK",
+      "id": "a1f66dbb-5ab1-4828-a16e-976994719920",
+      "macro": {
+        "action": {
+          "actionId": "slobs_recording_toggle",
+          "integrationId": "7264dd41c5d6c6f6"
+        },
+        "type": "ACTION"
+      },
+      "name": "APPLET_SLOBS_TOGGLE_RECORDING"
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Comms",
+      "id": "189524b9-bf15-4cd0-b26c-a012333df4c6",
+      "macro": {
+        "actionName": "Y",
+        "keystroke": {
+          "code": 28
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Chat Message",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "21dbbc2c-aca8-4950-919e-520e6a0206a4",
+      "macro": {
+        "actionName": "S",
+        "keystroke": {
+          "code": 22
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move Backward",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Comms",
+      "id": "186d87a8-e17a-4e63-81da-f9f12dce5369",
+      "macro": {
+        "actionName": "C",
+        "keystroke": {
+          "code": 6
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Report Radio Message",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "ab155bcf-efe5-4397-b4d0-143b61de0573",
+      "macro": {
+        "actionName": "W",
+        "keystroke": {
+          "code": 26
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Move Forward",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "402e3161-0a3b-409e-9c17-bb7bbb07c2e7",
+      "macro": {
+        "actionName": "Space",
+        "keystroke": {
+          "code": 44
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Jump",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "45423a25-0631-49ca-b9d9-29cac19b28cc",
+      "macro": {
+        "actionName": "Shift",
+        "keystroke": {
+          "modifiers": [225]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Walk",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Interface",
+      "id": "a76ca68e-bf47-4ca1-96bb-65b8c11d4371",
+      "macro": {
+        "actionName": "F2",
+        "keystroke": {
+          "code": 59
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Rebuy",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "56f5a579-0118-4e90-ad60-8e81e9fd07cb",
+      "macro": {
+        "actionName": "A",
+        "keystroke": {
+          "code": 4
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Strafe Left",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "0407e2cc-664e-4659-b779-fd51941cf0d6",
+      "macro": {
+        "actionName": "D",
+        "keystroke": {
+          "code": 7
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Strafe Right",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Movement",
+      "id": "2e42b61a-3fa0-4e4a-853c-cbe1c3f48a41",
+      "macro": {
+        "actionName": "Ctrl",
+        "keystroke": {
+          "modifiers": [224]
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Duck",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "35e8e034-f147-4702-a0e6-c72dbff8066e",
+      "macro": {
+        "actionName": "R",
+        "keystroke": {
+          "code": 21
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Reload",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Comms",
+      "id": "511273dd-121c-421f-9a93-6a184533fac8",
+      "macro": {
+        "actionName": "X",
+        "keystroke": {
+          "code": 27
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Standard Radio Message",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Comms",
+      "id": "8191d738-7524-4881-976b-1a155b7a915d",
+      "macro": {
+        "actionName": "U",
+        "keystroke": {
+          "code": 24
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Team Message",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Interface",
+      "id": "22732d7b-b357-4f3a-a5ca-da0b2a0c1243",
+      "macro": {
+        "actionName": "B",
+        "keystroke": {
+          "code": 5
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Buy Menu",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Interface",
+      "id": "acde9d4b-590a-4775-9f06-f314fd417d9b",
+      "macro": {
+        "actionName": "F1",
+        "keystroke": {
+          "code": 58
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Autobuy",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "200f350b-1d10-4d8b-959c-f2777cea4063",
+      "macro": {
+        "actionName": "8",
+        "keystroke": {
+          "code": 37
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Smoke Grenade",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "188952d8-1ba6-4a48-8ce6-e3fb5f8583f1",
+      "macro": {
+        "actionName": "1",
+        "keystroke": {
+          "code": 30
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Primary Weapon",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "dba07f5c-988e-4628-908f-f45b89aeb9b8",
+      "macro": {
+        "actionName": "4",
+        "keystroke": {
+          "code": 33
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Cycle Grenades",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "98f3b4b2-bd3a-4e49-9694-02cb024a24f0",
+      "macro": {
+        "actionName": "5",
+        "keystroke": {
+          "code": 34
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Bomb",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Weapons",
+      "id": "3cf1c6d3-3db7-42ff-a3c5-3a0efb45425e",
+      "macro": {
+        "actionName": "9",
+        "keystroke": {
+          "code": 38
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Decoy Grenade",
+      "readOnly": true
+    },
+    {
+      "applicationId": "ca572e6a-c76d-4e34-bd64-3665c0d0b0c1",
+      "attribute": "MACRO_PLAYBACK",
+      "category": "Interface",
+      "id": "075a3f0c-eef6-4288-bdee-ebf16d504033",
+      "macro": {
+        "actionName": "`",
+        "keystroke": {
+          "code": 53
+        },
+        "type": "KEYSTROKE"
+      },
+      "name": "Toggle Console",
+      "readOnly": true
+    },
+    {
+      "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+      "attribute": "MACRO_PLAYBACK",
+      "id": "0b239f9a-3295-42b4-bff9-78c909c6c445",
+      "macro": {
+        "onboardable": true,
+        "sequence": {
+          "defaultDelay": 50,
+          "heldSequence": {},
+          "pressSequence": {},
+          "releaseSequence": {},
+          "showUpDown": true,
+          "simpleSequence": {
+            "components": [
+              {
+                "keyboard": {
+                  "displayName": "Alt",
+                  "hidUsage": "226",
+                  "isDown": true
+                }
+              },
+              {
+                "delay": {
+                  "durationMs": 50
+                }
+              },
+              {
+                "keyboard": {
+                  "displayName": "Ctrl",
+                  "hidUsage": "224",
+                  "isDown": true
+                }
+              },
+              {
+                "delay": {
+                  "durationMs": 50
+                }
+              },
+              {
+                "keyboard": {
+                  "displayName": "S",
+                  "hidUsage": "22",
+                  "isDown": true
+                }
+              },
+              {
+                "delay": {
+                  "durationMs": 50
+                }
+              },
+              {
+                "keyboard": {
+                  "displayName": "S",
+                  "hidUsage": "22"
+                }
+              },
+              {
+                "delay": {
+                  "durationMs": 50
+                }
+              },
+              {
+                "keyboard": {
+                  "displayName": "Ctrl",
+                  "hidUsage": "224"
+                }
+              },
+              {
+                "delay": {
+                  "durationMs": 50
+                }
+              },
+              {
+                "keyboard": {
+                  "displayName": "Alt",
+                  "hidUsage": "226"
+                }
+              }
+            ]
+          },
+          "toggleSequence": {},
+          "useDefaultDelay": true,
+          "useSimpleActions": true
+        },
+        "type": "SEQUENCE"
+      },
+      "name": "show stickies"
+    }
+  ]
+}

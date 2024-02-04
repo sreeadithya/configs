@@ -62,3 +62,7 @@ video::-webkit-media-controls-fullscreen-button {
 .titlebar-button-container {
   display: none;
 }
+
+.tooltip {
+  display: none;
+}

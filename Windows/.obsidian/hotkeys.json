@@ -5,6 +5,12 @@
         "Mod"
       ],
       "key": "\\"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
     }
   ],
   "obsidian-rich-links:create-rich-links": [
