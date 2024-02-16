@@ -1,7 +1,6 @@
-; AutoHotkey Media Keys
 RAlt & Space::Send       {Media_Play_Pause}
 ^!Left::Send        {Media_Prev}
 ^!Right::Send       {Media_Next}
-^!NumpadMult::Send  {Volume_Mute}
-^!NumpadAdd::Send   {Volume_Up}
-^!NumpadSub::Send   {Volume_Down}
+^!M::Send  {Volume_Mute}
+RShift::Send   {Volume_Up}
+RCtrl::Send   {Volume_Down}
